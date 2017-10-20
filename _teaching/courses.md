@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/courses
 venue: ""
-date: "2013-present"
+date: "2013-03-01"
 location: "Technion, Faculty of Industrial Engineering and Management"
 ---
 
