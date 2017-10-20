@@ -3,7 +3,7 @@ title: "Head Teaching Assistant"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/courses
-venue: ""
+venue: "Technion, Faculty of Industrial Engineering and Management"
 date: "2013-03-01"
 location: "Technion, Faculty of Industrial Engineering and Management"
 ---
