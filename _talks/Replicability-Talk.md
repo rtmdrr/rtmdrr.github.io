@@ -1,10 +1,11 @@
 ---
 title: "Replicability Analysis for Natural Language Processing - NLP Highlights Podcast"
 collection: talks
-type: "Talk"
+type: "Podcast"
 permalink: /talks/Replicability-Talk
 venue: "NLP Highlights Podcast"
-date: 2017-10-19
+date: 2017-10-09
+location: ""
 ---
 
 A talk about the TACL 2017 paper by Rotem Dror, Gili Baumer, Marina Bogomolov, and Roi Reichart.
