@@ -1,11 +1,11 @@
 ---
-title: "Head Teching Assistant"
+title: "Head Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant"
 permalink: /teaching/courses
 venue: "Technion, Faculty of Industrial Engineering and Management"
-date: 2014-01-01
-location: "City, Country"
+date: 
+location: 
 ---
 
 Teaching assistant in undergraduate courses: Digital Simulation (6 semesters), Discrete Mathematics (2 semesters), Probability (1 semester), Software Engineering (2 semesters).
