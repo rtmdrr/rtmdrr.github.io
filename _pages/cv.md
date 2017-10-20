@@ -45,4 +45,9 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Skills
+======
+* Languages – Hebrew (native), English (fluent verbal and written), Arabic and Spanish (good).
+* Programming courses – C, C++, Python, C#, HTML, PHP, MATLAB, JAVA.
   
