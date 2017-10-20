@@ -20,16 +20,16 @@ My research focuses on developing structured prediction algorithms for natural l
 
 Work experience
 ======
-* HEAD TEACHING ASSISTANT | TECHNION | 2013-PRESENT
+* Head teaching assistent, Technion, 2013-present.
   * Head teaching assistant in courses "Digital Simulation" (undergraduate course) and "Machine Learning and Optimization" (undergraduate and graduate course).
   * Skills required: responsibility, teaching skills, expertise in relevant material.
   * Excellent TA award 1/2014.
 
-* ALGORITHM DEVELOPER | RAFAEL-ADVANCED DEFENCE SYSTEMS | 2013-2015
+* Algorithm developer, RAFAEL - Advanced Defence Systems, 2013-2015.
   * The job involved developing and adapting algorithms to systems produced in Rafael. 
   * Skills required: problem solving, simulations, programming in varied programming languages, algorithms, data analysis, statistics, operation research.
   
-* MILITARY SERVICE | 2007-2010
+* Military service, 2007-2010.
   * Service in a highly classified position in the Intelligence corps unit 8200.
   * Excellence recognition.
   * Skills required: languages acquisition, command, problem solving, research, operation modes.
