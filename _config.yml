@@ -83,8 +83,8 @@ author:
   bio              : "PhD student at the Faculty of Industrial Engineering and Management at the Technion."
   location         : #"Technion - Israel Institute of Technology"
   employer         :
-  googlescholar    : #""
-  email            : "rtmdrr@campus.technion.ac.il"
+  googlescholar    : "https://scholar.google.co.il/citations?user=ZB0tZNEAAAAJ&hl=en"
+  email            : "mailto:rtmdrr@campus.technion.ac.il"
   uri              :
   bitbucket        :
   codepen          :
