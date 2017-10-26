@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-some words about me
+Under Constructions
