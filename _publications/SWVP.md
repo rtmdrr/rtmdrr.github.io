@@ -3,7 +3,7 @@ title: "The Structured Weighted Violations Perceptron Algorithm"
 collection: publications
 permalink: /publication/SWVP
 date: 2016-06-01
-venue: 'EMNLP 2016'
+venue: 'Empirical Methods in Natural Language Processing (EMNLP)'
 paperurl: 'https://aclanthology.info/pdf/D/D16/D16-1045.pdf'
 citation: '<b> "The Structured Weighted Violations Perceptron Algorithm."</b> Rotem Dror and Roi Reichart. <i> EMNLP 2016. </i>'
 ---
