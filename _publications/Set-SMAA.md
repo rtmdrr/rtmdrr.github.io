@@ -1,5 +1,5 @@
 ---
-title: "Set-SMAA for finding preferable multi-objective solutions"
+title: "Set-SMAA for Finding Preferable Multi-Objective Solutions"
 collection: publications
 permalink: /publication/Set-SMAA
 excerpt: 'This paper is not an NLP paper.'
