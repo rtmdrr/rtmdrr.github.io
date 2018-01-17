@@ -2,10 +2,10 @@
 title: "Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets"
 collection: publications
 permalink: /publication/Replicability
-date: 2017-10-01
+date: 2017-11-01
 venue: 'Transactions of the Association for Computational Linguistics (TACL)'
-paperurl: 'https://arxiv.org/pdf/1709.09500.pdf'
-citation: '<b>"Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets."</b> Rotem Dror, Gili Baumer, Marina Bogomolov and Roi Reichart. <i>Accepted to the Transactions of the Association for Computational Linguistics (TACL).</i>'
+paperurl: 'http://www.aclweb.org/anthology/Q17-1033'
+citation: '<b>"Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets."</b> Rotem Dror, Gili Baumer, Marina Bogomolov and Roi Reichart. <i> Transactions of the Association for Computational Linguistics (TACL), vol. 5, pp. 471–486, 2017.</i>'
 ---
 
 <b> Abstract </b>
