@@ -36,6 +36,7 @@ Work experience
   
 Awards
 ======
+* 2018-2019 - Google PhD fellowship
 * 2017-2018 - Gutwirth scholarship.
 * 2017 - Award of academic excellence and research funded by the faculty of Industrial Engineering and Management at the Technion.
 * 2015 – Award of academic excellence and research funded by the faculty of Industrial Engineering and Management at the Technion.
