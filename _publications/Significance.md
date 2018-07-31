@@ -1,4 +1,3 @@
-
 ---
 title: "The Hitchhiker's Guide to Testing Statistical Significance in Natural Language Processing"
 collection: publications
