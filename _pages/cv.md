@@ -18,6 +18,20 @@ My research focuses on developing structured prediction algorithms for natural l
 * (2014-2016) Master in Operation Research for completing the requirements for the Master's degree during the PhD studies, Technion.
 * (2010-2014) B.Sc. in Industrial Engineering and Management, Business Information Systems major, Technion. Graduated Cum Laude. 4 Dean's Honor Rolls. GPA: 87.9.
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Awards
+======
+* 2018-2019 - Google PhD fellowship.
+* 2017-2018 - Gutwirth fellowship.
+* 2017 - Award of academic excellence and research funded by the faculty of Industrial Engineering and Management at the Technion.
+* 2015 – Award of academic excellence and research funded by the faculty of Industrial Engineering and Management at the Technion.
+* 2014 - Excellent TA award.
+
 Work experience
 ======
 * Head teaching assistent, Technion, 2013-present.
@@ -33,20 +47,7 @@ Work experience
   * Service in a highly classified position in the Intelligence corps unit 8200.
   * Excellence recognition.
   * Skills required: languages acquisition, command, problem solving, research, operation modes.
-  
-Awards
-======
-* 2018-2019 - Google PhD fellowship.
-* 2017-2018 - Gutwirth fellowship.
-* 2017 - Award of academic excellence and research funded by the faculty of Industrial Engineering and Management at the Technion.
-* 2015 – Award of academic excellence and research funded by the faculty of Industrial Engineering and Management at the Technion.
-* 2014 - Excellent TA award.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Skills
 ======
