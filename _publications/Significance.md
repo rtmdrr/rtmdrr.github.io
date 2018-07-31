@@ -3,9 +3,9 @@ title: "The Hitchhiker's Guide to Testing Statistical Significance in Natural La
 collection: publications
 permalink: /publication/Replicability
 date: 2018-15-07
-venue: 'Association for Computational Linguistics (ACL)'
-paperurl: 'https://ie.technion.ac.il/~roiri/papers/ACL-2018-sig-cr.pdf'
-citation: '<b>"The Hitchhiker's Guide to Testing Statistical Significance in Natural Language Processing."</b> Rotem Dror, Gili Baumer, Segev Shlomov and Roi Reichart. <i> In Proceedings of Association for Computational Linguistics (ACL 2018).</i>'
+venue:'Association for Computational Linguistics (ACL)'
+paperurl:'https://ie.technion.ac.il/~roiri/papers/ACL-2018-sig-cr.pdf'
+citation:'<b>"The Hitchhiker's Guide to Testing Statistical Significance in Natural Language Processing."</b> Rotem Dror, Gili Baumer, Segev Shlomov and Roi Reichart. <i> In Proceedings of Association for Computational Linguistics (ACL 2018).</i>'
 ---
 
 <b> Abstract </b>
