@@ -5,7 +5,7 @@ permalink: /publication/Significance
 date: 2018-15-07
 venue: 'Association for Computational Linguistics (ACL 2018)'
 paperurl: 'https://ie.technion.ac.il/~roiri/papers/ACL-2018-sig-cr.pdf'
-citation: '<b>"Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets."</b> Rotem Dror, Gili Baumer, Segev Shlomov and Roi Reichart. <i> Association for Computational Linguistics (ACL 2018).</i>'
+citation: '<b>"The Hitchhikers Guide to Testing Statistical Significance in Natural Language Processing."</b> Rotem Dror, Gili Baumer, Segev Shlomov and Roi Reichart. <i> Association for Computational Linguistics (ACL 2018).</i>'
 ---
 
 <b> Abstract </b>
