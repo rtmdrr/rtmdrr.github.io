@@ -4,6 +4,7 @@ NLP Tasks"
 collection: publications
 permalink: /publication/Significance
 date: 2018-06-09
+venue: 'arxiv'
 paperurl: 'https://arxiv.org/pdf/1809.01448.pdf'
 citation: '<b>"The Hitchhikers Guide to Testing Statistical Significance in Natural Language Processing."</b> Rotem Dror, Gili Baumer, Segev Shlomov and Roi Reichart. <i> Association for Computational Linguistics (ACL 2018).</i>'
 ---
