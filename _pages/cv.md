@@ -34,10 +34,10 @@ Awards
 
 Relevant Courses and Projects
 ======
-Data Analysis - She Codes Course https://she-codes.org/about/
-Deep Learning on Computational Accelerators
-Machine Learning and Online Optimization
-Natural Langugage Processing
+* Data Analysis - She Codes Course https://she-codes.org/about/
+* Deep Learning on Computational Accelerators
+* Machine Learning and Online Optimization
+* Natural Langugage Processing
 
 Work experience
 ======
