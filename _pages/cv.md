@@ -32,6 +32,13 @@ Awards
 * 2015 – Award of academic excellence and research funded by the faculty of Industrial Engineering and Management at the Technion.
 * 2014 - Excellent TA award.
 
+Relevant Courses and Projects
+======
+Data Analysis - She Codes Course https://she-codes.org/about/
+Deep Learning on Computational Accelerators
+Machine Learning and Online Optimization
+Natural Langugage Processing
+
 Work experience
 ======
 * Head teaching assistent, Technion, 2013-present.
@@ -51,6 +58,6 @@ Work experience
 
 Skills
 ======
-* Languages – Hebrew (native), English (fluent verbal and written), Arabic and Spanish (good).
-* Programming courses – C, C++, Python, C#, HTML, PHP, MATLAB, JAVA.
+* Languages – Hebrew (native), English (fluent verbal and written).
+* Programming courses – C, C++, Python, Pytorch, C#, HTML, PHP, MATLAB, JAVA.
   
