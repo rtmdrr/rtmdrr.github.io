@@ -42,7 +42,7 @@ Relevant Courses and Projects
 Work experience
 ======
 * Head teaching assistent, Technion, 2013-present.
-  * Head teaching assistant in courses "Digital Simulation" (undergraduate course) and "Machine Learning and Optimization" (undergraduate and graduate course).
+  * Head teaching assistant in courses "Digital Simulation", "Discrete Math", "Probability" (undergraduate course), and "Machine Learning and Optimization" (undergraduate and graduate course).
   * Skills required: responsibility, teaching skills, expertise in relevant material.
   * Excellent TA award 1/2014.
 
