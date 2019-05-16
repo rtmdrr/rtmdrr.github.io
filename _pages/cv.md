@@ -13,7 +13,7 @@ Education
 ======
 * (2016-present) Ph.D. student at the faculty of Industrial Engineering and Management at the Technion, working under the supervision of Asst. Professor Roi Reichart. 
 
-My research focuses on developing structured prediction algorithms for natural language processing (NLP) applications. My main fields of interest are machine learning, optimization and NLP. Current GPA: 93.3.
+My research involves building and investigating algorithms for structured prediction, with a focus on algorithms for NLP applications. I am also interested in statistically sound evaluation of machine learning algorithms, particularly deep neural networks. I am interested in NLP, machine learning, statistics, probability, operation research and optimization. Current GPA: 93.3.
 
 * (2014-2016) Master in Operation Research for completing the requirements for the Master's degree during the PhD studies, Technion.
 * (2010-2014) B.Sc. in Industrial Engineering and Management, Business Information Systems major, Technion. Graduated Cum Laude. 4 Dean's Honor Rolls. GPA: 87.9.
@@ -26,7 +26,7 @@ Publications
   
 Awards
 ======
-* 2018-2019 - Google PhD fellowship.
+* 2018 - Google PhD fellowship.
 * 2017-2018 - Gutwirth fellowship.
 * 2017 - Award of academic excellence and research funded by the faculty of Industrial Engineering and Management at the Technion.
 * 2015 – Award of academic excellence and research funded by the faculty of Industrial Engineering and Management at the Technion.
