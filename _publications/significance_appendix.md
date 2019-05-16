@@ -2,7 +2,7 @@
 title: "Appendix - Recommended Statistical Significance Tests for
 NLP Tasks"
 collection: publications
-permalink: /publication/Significance
+permalink: /publication/significance_appendix
 date: 2018-06-09
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/pdf/1809.01448.pdf'
