@@ -1,7 +1,7 @@
 ---
 title: "The Hitchhikers Guide to Testing Statistical Significance in Natural Language Processing"
 collection: publications
-permalink: /publication/Significance
+permalink: /publication/significance
 date: 2018-01-07
 venue: 'Association for Computational Linguistics (ACL 2018)'
 paperurl: 'https://www.aclweb.org/anthology/papers/P/P18/P18-1128/'
