@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Replicability
 date: 2019-07-28
 venue: 'Association for Computational Linguistics (ACL)'
-paperurl: 'https://ie.technion.ac.il/~roiri/papers/DeepDominance.pdf'
+paperurl: 'https://www.aclweb.org/anthology/P19-1266/'
 citation: '<b>"Deep Dominance - How to Properly Compare Deep Neural Models."</b> Rotem Dror, Segev Shlomov and Roi Reichart. <i> In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL) 2019.</i>'
 ---
 
