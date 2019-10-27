@@ -26,6 +26,7 @@ Publications
   
 Awards
 ======
+* 2019 - Eric and Wendy Schmidt Postdoctoral Award for Women in Mathematical and Computing Sciences.
 * 2018 - Google PhD fellowship.
 * 2017-2018 - Gutwirth fellowship.
 * 2017 - Award of academic excellence and research funded by the faculty of Industrial Engineering and Management at the Technion.
@@ -41,7 +42,9 @@ Relevant Courses and Projects
 
 Work experience
 ======
-* Head teaching assistent, Technion, 2013-present.
+* Research Intern, Amazon, 8.2019-11.2019.
+
+* Head teaching assistent, Technion, 2013-2019.
   * Head teaching assistant in courses "Digital Simulation", "Discrete Math", "Probability" (undergraduate course), and "Machine Learning and Optimization" (undergraduate and graduate course).
   * Skills required: responsibility, teaching skills, expertise in relevant material.
   * Excellent TA award 1/2014.
