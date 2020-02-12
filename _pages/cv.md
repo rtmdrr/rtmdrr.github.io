@@ -31,14 +31,7 @@ Awards
 * 2017-2018 - Gutwirth fellowship.
 * 2017 - Award of academic excellence and research funded by the faculty of Industrial Engineering and Management at the Technion.
 * 2015 – Award of academic excellence and research funded by the faculty of Industrial Engineering and Management at the Technion.
-* 2014, 2019 - Excellent TA award.
-
-Relevant Courses and Projects
-======
-* Data Analysis - She Codes Course https://she-codes.org/about/
-* Deep Learning on Computational Accelerators
-* Machine Learning and Online Optimization
-* Natural Langugage Processing
+* 2014, 2018, 2019 - Excellent TA award.
 
 Work experience
 ======
