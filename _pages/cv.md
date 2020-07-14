@@ -33,6 +33,12 @@ Awards
 * 2015 – Award of academic excellence and research funded by the faculty of Industrial Engineering and Management at the Technion.
 * 2014, 2018, 2019 - Excellent TA award.
 
+Activities
+======
+* Student chair in the Student Research Workshop (SRW) at ACL 2020.
+* Establishment and organization of the Computational Data Science Seminar at the Faculty of Industrial Engineering and Management at the Technion (2018-2020).
+* Co-organization of ISCOL 2018.
+
 Work experience
 ======
 * Research Intern, Amazon, 8.2019-11.2019.
