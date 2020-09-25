@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rotem Dror"
 title_separator          : "-"
 name                     : &name "Rotem Dror"
-description              : &description "PhD student at the Technion"
+description              : &description "Postdoctoral Researcher at University of Pennsylvania"
 url                      : https://rtmdrr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rtmdrr/rtmdrr.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Rotem Dror"
   avatar           : "profile.png"
-  bio              : "rtmdrr@campus.technion.ac.il"
+  bio              : "rtmdrr@seas.upenn.edu"
   location         : #"Technion - Israel Institute of Technology"
   employer         :
   googlescholar    : "https://scholar.google.co.il/citations?user=ZB0tZNEAAAAJ&hl=en"
