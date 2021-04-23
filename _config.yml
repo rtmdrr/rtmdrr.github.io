@@ -84,7 +84,7 @@ author:
   location         : #"Technion - Israel Institute of Technology"
   employer         :
   googlescholar    : "https://scholar.google.co.il/citations?user=ZB0tZNEAAAAJ&hl=en"
-  email            : #"mailto:rtmdrr@campus.technion.ac.il"
+  email            : "mailto:rtmdrr@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,13 +92,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  # github           : https://rtmdrr.github.io
+  github           : https://rtmdrr.github.io
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : https://www.linkedin.com/in/rotem-dror-43664938/  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :
