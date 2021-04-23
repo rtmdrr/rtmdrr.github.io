@@ -14,3 +14,5 @@ Comparing between Deep Neural Network (DNN) models based on their performance on
 <b> Github </b>
 https://github.com/rtmdrr/deepComparison
 
+Check out this github too:
+https://github.com/Kaleidophon/deep-significance
