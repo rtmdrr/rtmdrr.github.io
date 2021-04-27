@@ -1,7 +1,7 @@
 ---
 title: "A Statistical Analysis of Summarization Evaluation Metrics using Resampling Methods"
 collection: publications
-permalink: /publication/Replicability
+permalink: /publication/summarization_eval
 date: 2021-04-01
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2104.00054'
