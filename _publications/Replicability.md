@@ -1,7 +1,7 @@
 ---
 title: "Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets"
 collection: publications
-permalink: /publication/Replicability
+permalink: /publication/replicability
 date: 2017-11-01
 venue: 'Transactions of the Association for Computational Linguistics (TACL)'
 paperurl: 'http://www.aclweb.org/anthology/Q17-1033'
