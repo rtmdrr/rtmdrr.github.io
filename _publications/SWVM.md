@@ -1,7 +1,7 @@
 ---
 title: "The Structured Weighted Violations MIRA"
 collection: publications
-permalink: /publication/SWVP
+permalink: /publication/SWVM
 date: 2020-06-06
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2005.04418'
