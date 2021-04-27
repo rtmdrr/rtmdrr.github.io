@@ -1,7 +1,7 @@
 ---
 title: "Deep Dominance - How to Properly Compare Deep Neural Models"
 collection: publications
-permalink: /publication/deep_significance
+permalink: /publication/deepsignificance
 date: 2019-07-28
 venue: 'Association for Computational Linguistics (ACL)'
 paperurl: 'https://www.aclweb.org/anthology/P19-1266/'
