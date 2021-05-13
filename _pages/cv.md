@@ -39,7 +39,7 @@ Activities
 * Establishment and organization of the Computational Data Science Seminar at the Faculty of Industrial Engineering and Management at the Technion (2018-2020).
 * Co-organization of ISCOL 2018.
 
-Work experience
+Work Experience
 ======
 * Research Intern, Amazon, 8.2019-11.2019.
 
