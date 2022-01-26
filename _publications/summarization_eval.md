@@ -5,7 +5,7 @@ permalink: /publication/summarizationeval
 date: 2021-04-01
 venue: 'Transactions of the Association for Computational Linguistics (TACL)'
 paperurl: 'https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00417/107833/A-Statistical-Analysis-of-Summarization-Evaluation'
-citation: '<b>"A Statistical Analysis of Summarization Evaluation Metrics using Resampling Methods."</b> Daniel Deutsch, Rotem Dror, Dan Roth. <i> arXiv:2104.00054 </i>'
+citation: '<b> A Statistical Analysis of Summarization Evaluation Metrics Using Resampling Methods."</b> Daniel Deutsch, Rotem Dror, Dan Roth. <i> of the Association for Computational Linguistics 2021; 9 1132–1146.</i>'
 ---
 
 <b> Abstract </b>
