@@ -14,7 +14,7 @@ Education
 * (2020-present) Postdoctoral Researcher at the Cognitive Computation Group at the Department of Computer and Information Science, University of Pennsylvania, working with Prof. Dan Roth
 
 * (2016-2020) Ph.D. at the faculty of Industrial Engineering and Management at the Technion, working under the supervision of Asst. Professor Roi Reichart. 
-My thesis title: Structured Solutions in Natural Language Processing: Algorithms and Statistically Sound Evaluation. GPA: 93.5.
+Thesis title: Structured Solutions in Natural Language Processing: Algorithms and Statistically Sound Evaluation. GPA: 93.5.
 * (2014-2016) Master in Operation Research for completing the requirements for the Master's degree during the PhD studies, Technion.
 * (2010-2014) B.Sc. in Industrial Engineering and Management, Business Information Systems major, Technion. Graduated Cum Laude. 4 Dean's Honor Rolls. GPA: 87.9.
 
