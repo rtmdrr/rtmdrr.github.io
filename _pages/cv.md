@@ -20,9 +20,9 @@ Thesis title: Structured Solutions in Natural Language Processing: Algorithms an
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> 
   
 Awards
 ======
@@ -35,9 +35,14 @@ Awards
 
 Activities
 ======
+* Founder and operator of the NLP Rolling Statistics Clinic: \url{https://nlpstatclinic.github.io/}
+* Keynote speaker at the Machine Learning Evaluation Standard Workshop at ICLR2022.
+* E-visiting scholar at the Erasmus Mundus European Masters Program in Language and Communication Technologies (LCT) Consortium 2021.
+* Conference reviewer: since 2018 reviewing on a regular basis for ACL, EMNLP, NAACL, CoNLL, EACL, NLPCC, COLING. Occasionally reviewing for AAAI, ICML, IJCAI, NIPS. Reviewer on ACL Rolling Review.
+* Journal and Monograph Reviewer: Communications of the ACM (2021) and a manuscript review for the Synthesis Lectures in Human Language Technologies published by Morgan&Claypool Publishers (2021).
+* Establishment and organization of the Computational Data Science Seminar at the Faculty of Industrial Engineering and Management at the Technion (2018 -- 2020)
 * Student chair in the Student Research Workshop (SRW) at ACL 2020.
-* Establishment and organization of the Computational Data Science Seminar at the Faculty of Industrial Engineering and Management at the Technion (2018-2020).
-* Co-organization of ISCOL 2018.
+* Co-organization of the Israeli Seminar on Computational Linguistics (ISCOL) 2018.
 
 Work Experience
 ======
