@@ -14,3 +14,5 @@ I have completed my Ph.D. in the Natural Language Processing Group, supervised b
 <!--- My research involves building and investigating algorithms for structured prediction, with a focus on algorithms for NLP applications. I am interested in NLP, machine learning, statistics, probability, operation research and optimization.--->
 
 My research involves developing statistically sound methodologies for empirical investigation and evaluation for Data Science with a focus on Natural Language Processing applications. As part of my research, I am also looking into ways to leverage the statistical properties of language to generate text that is useful for NLP applications such as event processing, fact validation, and summarization.
+
+Check out my new initiative for helping researchers with their statistical analysis - https://nlpstatclinic.github.io/
