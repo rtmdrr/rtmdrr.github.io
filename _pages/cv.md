@@ -35,7 +35,7 @@ Awards
 
 Activities
 ======
-* Founder and operator of the NLP Rolling Statistics Clinic: \url{https://nlpstatclinic.github.io/}
+* Founder and operator of the NLP Rolling Statistics Clinic: <a href = "https://nlpstatclinic.github.io/">https://cogcomp.seas.upenn.edu/</a> 
 * Keynote speaker at the Machine Learning Evaluation Standard Workshop at ICLR2022.
 * E-visiting scholar at the Erasmus Mundus European Masters Program in Language and Communication Technologies (LCT) Consortium 2021.
 * Conference reviewer: since 2018 reviewing on a regular basis for ACL, EMNLP, NAACL, CoNLL, EACL, NLPCC, COLING. Occasionally reviewing for AAAI, ICML, IJCAI, NIPS. Reviewer on ACL Rolling Review.
