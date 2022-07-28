@@ -26,6 +26,7 @@ Publications
   
 Awards
 ======
+* 2022 - Women’s Postdoctoral Career Development Award in Science.
 * 2019 - Eric and Wendy Schmidt Postdoctoral Award for Women in Mathematical and Computing Sciences.
 * 2018 - Google PhD fellowship.
 * 2017-2018 - Gutwirth fellowship.
