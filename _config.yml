@@ -81,10 +81,10 @@ author:
   name             : "Rotem Dror"
   avatar           : "DSC_0657.JPG" # "profile.png"
   bio              : "rtmdrr@seas.upenn.edu"
-  location         : #"Technion - Israel Institute of Technology"
+  location         : 
   employer         :
   googlescholar    : "https://scholar.google.co.il/citations?user=ZB0tZNEAAAAJ&hl=en"
-  email            : #"mailto:rtmdrr@gmail.com"
+  email            : "mailto:rtmdrr@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
