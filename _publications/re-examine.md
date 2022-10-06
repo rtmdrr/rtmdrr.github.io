@@ -5,7 +5,7 @@ permalink: /publication/re-examine
 date: 2022-07-10
 venue: 'The North Americal Chapter of the Association for Computational Linguistics (NAACL)'
 paperurl: 'https://aclanthology.org/2022.naacl-main.442.pdf'
-citation: '<b>"Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics."</b> Dan Deutsch, Rotem Dror, and Dan Roth. <i> In Proceedings of the 2022 Annual Meeting of the North American Chapter of the Association for Computational Linguistics (NAACL).</i>'
+citation: '<b>"Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics."</b> Daniel Deutsch, Rotem Dror, and Dan Roth. <i> In Proceedings of the 2022 Annual Meeting of the North American Chapter of the Association for Computational Linguistics (NAACL).</i>'
 ---
 
 <b> Abstract </b>
