@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/reference-free
 date: 2022-12-07
 venue: 'Empirical Methods in Natural Language Processing (EMNLP)'
-paperurl: 'https://openreview.net/forum?id=StZ_MKxWgf9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daclweb.org%2FACL%2FARR%2F2022%2FMarch%2FAuthors%23your-submissions)'
+paperurl: '[https://arxiv.org/abs/2210.12563]'
 citation: '<b>"On the Limitations of Reference-Free Evaluations of Generated Text."</b> Daniel Deutsch, Rotem Dror, and Dan Roth. <i> In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.</i>'
 ---
 
