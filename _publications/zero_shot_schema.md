@@ -5,7 +5,7 @@ permalink: /publication/zeroshot
 date: 2023-01-25
 venue: 'The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL)'
 paperurl: 'https://arxiv.org/abs/2210.06254'
-citation: '<b> Zero-Shot On-the-Fly Event Schema Induction."</b> Rotem Dror, Haoyu Wang, Dan Roth. <i> In Proceedings of Findings of the 17th Conference of the European Chapter of the Association for Computational Linguistics.</i>'
+citation: '<b> Zero-Shot On-the-Fly Event Schema Induction."</b> Rotem Dror, Haoyu Wang, Dan Roth. <i> In Proceedings of the Findings of the 17th Conference of the European Chapter of the Association for Computational Linguistics.</i>'
 ---
 
 <b> Abstract </b>
