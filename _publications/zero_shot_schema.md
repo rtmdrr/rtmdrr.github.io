@@ -1,4 +1,3 @@
-
 ---
 title: "Zero-Shot On-the-Fly Event Schema Induction"
 collection: publications
