@@ -3,9 +3,9 @@ title: "Human-in-the-Loop Schema Induction"
 collection: publications
 permalink: /publication/tianyi_schema
 date: 2023-02-25
-venue: 'Arxiv - submitted to ACL 2023 demo track'
+venue: 'ACL 2023 demo track'
 paperurl: '[https://arxiv.org/abs/2302.13048]'
-citation: '<b>"Human-in-the-Loop Schema Induction."</b> Tianyi Zhang, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch. <i> Arxiv. 2023.</i>'
+citation: '<b>"Human-in-the-Loop Schema Induction."</b> Tianyi Zhang, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch. <i> In proceedings of the ACL 2023 Demo Track.</i>'
 ---
 
 <b> Abstract </b>
