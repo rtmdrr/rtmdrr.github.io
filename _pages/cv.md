@@ -37,7 +37,7 @@ Awards
 Activities
 ======
 * Co-Organizer of Evaluation & Comparison of NLP Systems (Eval4NLP) Workshop at AACL2023.
-* Panelist at the Sustain4NLP Workshop at ACL2023.
+* Panelist at the SustaiNLP Workshop at ACL2023.
 * Co-Organizer of Data-centric Machine Learning Research (DMLR) Workshop at ICML2023.
 * Founder and operator of the NLP Rolling Statistics Clinic: <a href = "https://nlpstatclinic.github.io/">https://cogcomp.seas.upenn.edu/</a> 
 * Keynote speaker at the Machine Learning Evaluation Standard Workshop at ICLR2022.
