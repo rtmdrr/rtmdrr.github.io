@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* (2020-present) Postdoctoral Researcher at the Cognitive Computation Group at the Department of Computer and Information Science, University of Pennsylvania, working with Prof. Dan Roth
-
+* (2023-Present) Assistant Professor at the Information Systems Department, University of Haifa.
+* (2020-2023) Postdoctoral Researcher at the Cognitive Computation Group at the Department of Computer and Information Science, University of Pennsylvania, working with Prof. Dan Roth.
 * (2016-2020) Ph.D. at the faculty of Industrial Engineering and Management at the Technion, working under the supervision of Asst. Professor Roi Reichart. 
 Thesis title: Structured Solutions in Natural Language Processing: Algorithms and Statistically Sound Evaluation. GPA: 93.5.
 * (2014-2016) Master in Operation Research for completing the requirements for the Master's degree during the PhD studies, Technion.
@@ -36,6 +36,9 @@ Awards
 
 Activities
 ======
+* Co-Organizer of Evaluation & Comparison of NLP Systems (Eval4NLP) Workshop at AACL2023.
+* Panelist at the Sustain4NLP Workshop at ACL2023.
+* Co-Organizer of Data-centric Machine Learning Research (DMLR) Workshop at ICML2023.
 * Founder and operator of the NLP Rolling Statistics Clinic: <a href = "https://nlpstatclinic.github.io/">https://cogcomp.seas.upenn.edu/</a> 
 * Keynote speaker at the Machine Learning Evaluation Standard Workshop at ICLR2022.
 * E-visiting scholar at the Erasmus Mundus European Masters Program in Language and Communication Technologies (LCT) Consortium 2021.
@@ -43,7 +46,7 @@ Activities
 * Journal and Monograph Reviewer: Communications of the ACM (2021) and a manuscript review for the Synthesis Lectures in Human Language Technologies published by Morgan&Claypool Publishers (2021).
 * Establishment and organization of the Computational Data Science Seminar at the Faculty of Industrial Engineering and Management at the Technion (2018 -- 2020)
 * Student chair in the Student Research Workshop (SRW) at ACL 2020.
-* Co-organization of the Israeli Seminar on Computational Linguistics (ISCOL) 2018.
+* Co-Organizer of the Israeli Seminar on Computational Linguistics (ISCOL) 2018.
 
 Work Experience
 ======
