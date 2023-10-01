@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an Asst. Prof. (Senior Lecturer) at the <a href =  "https://is-web.hevra.haifa.ac.il/index.php/en/">Department of Information Systems</a>, <a href = "https://www.haifa.ac.il/?lang=en">University of Haifa</a>.
 
-I did my Postdoctoral Researcher at the <a href = "https://cogcomp.seas.upenn.edu/">Cognitive Computation Group</a> at the <a href = "https://www.cis.upenn.edu/">Department of Computer and Information Science</a>, <a href = "https://home.www.upenn.edu/">University of Pennsylvania</a>, Working with <a href = "https://www.cis.upenn.edu/~danroth/">Prof. Dan Roth</a>.
+I did my Postdoctoral Research at the <a href = "https://cogcomp.seas.upenn.edu/">Cognitive Computation Group</a> at the <a href = "https://www.cis.upenn.edu/">Department of Computer and Information Science</a>, <a href = "https://home.www.upenn.edu/">University of Pennsylvania</a>, Working with <a href = "https://www.cis.upenn.edu/~danroth/">Prof. Dan Roth</a>.
 
 I have completed my Ph.D. in the Natural Language Processing Group, supervised by <a href = "https://ie.technion.ac.il/~roiri/">Prof. Roi Reichart</a>, at the <a href = "http://ie.technion.ac.il">Faculty of Industrial Engineering and Management</a> at the <a href = "http://www.technion.ac.il">Technion - Israel Institute of Technology</a>. My thesis is about Structured Solutions in Natural Language Processing: Algorithms and Statistically Sound Evaluation. 
 
