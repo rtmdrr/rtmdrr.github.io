@@ -36,6 +36,7 @@ Awards
 
 Activities
 ======
+* Organizer and Chair of the Statistical Challenges in Model-based Data Science Session at CFE-CMStatistics 2023.
 * Co-Organizer of Evaluation & Comparison of NLP Systems (Eval4NLP) Workshop at AACL2023.
 * Panelist at the SustaiNLP Workshop at ACL2023.
 * Co-Organizer of Data-centric Machine Learning Research (DMLR) Workshop at ICML2023.
