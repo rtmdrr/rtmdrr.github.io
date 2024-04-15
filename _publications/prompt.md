@@ -5,7 +5,7 @@ permalink: /publication/prompt
 date: 2024-01-30
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2401.00595'
-citation: '<b>"State of what art? a call for multi-prompt llm evaluation."</b> Moran Mizrahi, Guy Kaplan, Dan Malkin, Rotem Dror, Dafna Shahaf, Gabriel Stanovsky. <i> arXiv preprint arXiv:2401.00595.</i>'
+citation: '<b>"State of what art? a call for multi-prompt llm evaluation."</b> Moran Mizrahi, Guy Kaplan, Dan Malkin, Rotem Dror, Dafna Shahaf, Gabriel Stanovsky. <i> arXiv preprint arXiv:2401.00595. Accepted to TACL</i>'
 ---
 
 <b> Abstract </b>
