@@ -36,10 +36,12 @@ Awards
 
 Activities
 ======
+* Co-organizer of the NLP4Science Workshop at EMNLP2024.
+* Co-organizer of Data-centric Machine Learning Research (DMLR) Workshop at ICML2024.
 * Organizer and Chair of the Statistical Challenges in Model-based Data Science Session at CFE-CMStatistics 2023.
-* Co-Organizer of Evaluation & Comparison of NLP Systems (Eval4NLP) Workshop at AACL2023.
+* Co-organizer of Evaluation & Comparison of NLP Systems (Eval4NLP) Workshop at AACL2023.
 * Panelist at the SustaiNLP Workshop at ACL2023.
-* Co-Organizer of Data-centric Machine Learning Research (DMLR) Workshop at ICML2023.
+* Co-organizer of Data-centric Machine Learning Research (DMLR) Workshop at ICML2023.
 * Founder and operator of the NLP Rolling Statistics Clinic: <a href = "https://nlpstatclinic.github.io/">https://cogcomp.seas.upenn.edu/</a> 
 * Keynote speaker at the Machine Learning Evaluation Standard Workshop at ICLR2022.
 * E-visiting scholar at the Erasmus Mundus European Masters Program in Language and Communication Technologies (LCT) Consortium 2021.
@@ -47,7 +49,7 @@ Activities
 * Journal and Monograph Reviewer: Communications of the ACM (2021) and a manuscript review for the Synthesis Lectures in Human Language Technologies published by Morgan&Claypool Publishers (2021).
 * Establishment and organization of the Computational Data Science Seminar at the Faculty of Industrial Engineering and Management at the Technion (2018 -- 2020)
 * Student chair in the Student Research Workshop (SRW) at ACL 2020.
-* Co-Organizer of the Israeli Seminar on Computational Linguistics (ISCOL) 2018.
+* Co-organizer of the Israeli Seminar on Computational Linguistics (ISCOL) 2018.
 
 Work Experience
 ======
