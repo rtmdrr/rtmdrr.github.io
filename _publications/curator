@@ -1,0 +1,12 @@
+---
+title: "The Curator's Helper"
+collection: publications
+permalink: /publication/curator
+date: 2024-07-01
+venue: 'Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3631700.3664905'
+citation: '<b>"The Curator's Helper."</b> Rotem Dror, Daniel Hutchinson, Mason Jones, Victoria Van Hyning, Tsvi Kuflik. <i> Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization. 2024.</i>'
+---
+
+<b> Abstract </b>
+Galleries, libraries, archives, and museums (GLAM) are distinct but interconnected institutions that play crucial roles in preserving, studying, and sharing knowledge, culture, and heritage (GLAM). Many hold and preserve unique artifacts that they make available to the public in various forms, on-site through exhibitions and displays, and remotely, through digital surrogates such as images, audio/video files, in digital exhibits and through various forms of description such as catalog, archival, and museum records management systems. Oftentimes these artifacts and resources need be delivered to the public in varying modes and for varying reasons: no one description suits all occasions and purpose. Short and accurate descriptions of. GLAM resources and artifacts are vital to the work of public engagement. The appearance of large language models and interfaces to interact with them such as Chatgpt4 opens new opportunities for automatic content creation, while posing also new challenges. In this position paper, we propose to use these new tools as an aid for the curator to create suggestions for content that may be used as descriptions of artifacts while enabling also the adaptation of the content for varied audiences and even to personal preferences.
