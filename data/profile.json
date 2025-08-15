@@ -1,15 +1,16 @@
 {
   "name": "Rotem Dror",
   "title": "Assistant Professor of Natural Language Processing",
-  "affiliation": "Information Systems Department, University of Haifa",
+  "affiliation": "Faculty of Computer and Information Science, University of Haifa",
   "email": "rdror@is.haifa.ac.il",
   "location": "Haifa, Israel",
   "links": {
     "Google Scholar": "https://scholar.google.com/citations?hl=en&user=ZB0tZNEAAAAJ",
     "GitHub": "https://github.com/rtmdrr",
     "LinkedIn": "https://www.linkedin.com/in/rotem-dror-3a8a779b/",
-    "Twitter": "https://twitter.com/",
+    "Twitter": "https://x.com/DrorRotem",
     "OpenReview": "https://openreview.net/profile?id=~Rotem_Dror2"
   },
+  "photo":
   "bio": "My work focuses on enhancing the statistical rigor of model evaluation, particularly in NLP. I develop methodologies that improve the reliability, fairness, and interpretability of empirical results and generated text outputs by NLP models such as LLMs."
 }
