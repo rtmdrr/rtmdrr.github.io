@@ -21,7 +21,21 @@
   </header>
   <section id="profile" class="profile">
   <img src="assets/images/photo.jpg" alt="Rotem Dror" class="profile-pic">
-  </section>
+ <section id="profile" class="profile">
+  <img id="profile-pic" alt="Profile photo" class="profile-pic">
+  <h1 id="profile-name"></h1>
+  <p id="profile-bio"></p>
+</section>
+
+<script>
+fetch('data/profile.json')
+  .then(response => response.json())
+  .then(data => {
+    document.getElementById('profile-pic').src = data.photo;
+    document.getElementById('profile-name').textContent = data.name;
+    document.getElementById('profile-bio').textContent = data.bio;
+  });
+</script>
   <main class="container">
     
   <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
