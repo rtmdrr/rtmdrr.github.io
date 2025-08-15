@@ -22,32 +22,26 @@
 
   <!-- Profile Section -->
   <section id="profile" class="profile">
-    <!-- Fallback content -->
     <img id="profile-pic" src="assets/DSC00016.jpg" alt="Rotem Dror" class="profile-pic">
     <div class="profile-text">
       <h1 id="profile-name">Rotem Dror</h1>
-      <p id="profile-bio">Assistant Professor of NLP at the University of Haifa. Reliability, fairness, and interpretability of NLP evaluation. Statistical methods for robust conclusions.</p>
+      <p id="profile-bio">
+        Assistant Professor of NLP at the University of Haifa. Reliability, fairness, and interpretability of NLP evaluation. Statistical methods for robust conclusions.
+      </p>
     </div>
   </section>
 
-  <!-- JS to dynamically update profile from JSON -->
+  <!-- Optional: JSON-based dynamic update (fallback already in place) -->
   <script>
-fetch('data/profile.json')
-  .then(response => response.json())
-  .then(data => {
-    // Only update if the data exists
-    if (data.photo) {
-      document.getElementById('profile-pic').src = data.photo;
-    }
-    if (data.name) {
-      document.getElementById('profile-name').textContent = data.name;
-    }
-    if (data.bio) {
-      document.getElementById('profile-bio').textContent = data.bio;
-    }
-  })
-  .catch(err => console.log("Profile JSON not loaded:", err));
-</script>
+    fetch('data/profile.json')
+      .then(response => response.json())
+      .then(data => {
+        if (data.photo) document.getElementById('profile-pic').src = data.photo;
+        if (data.name) document.getElementById('profile-name').textContent = data.name;
+        if (data.bio) document.getElementById('profile-bio').textContent = data.bio;
+      })
+      .catch(err => console.log("Profile JSON not loaded:", err));
+  </script>
 
   <main class="container">
     <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
@@ -71,7 +65,9 @@ fetch('data/profile.json')
 
   <footer class="footer">
     <div class="container">
-      <small class="muted">© Rotem Dror 2025. Built with vanilla HTML/CSS/JS · Auto-updating publications via GitHub Actions + Google Scholar.</small>
+      <small class="muted">
+        © Rotem Dror 2025. Built with vanilla HTML/CSS/JS · Auto-updating publications via GitHub Actions + Google Scholar.
+      </small>
     </div>
   </footer>
 
