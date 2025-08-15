@@ -1,128 +1,155 @@
 [
   {
+    "title": "The hitchhiker’s guide to testing statistical significance in natural language processing",
+  "authors": "Rotem Dror, Gili Baumer, Segev Shlomov, Roi Reichart",
+  "year": 2018,
+    "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics",
+  "url": "https://aclanthology.org/P18-1128.pdf"
+  "type": "conference"
+  },
+{
+      "title": "Deep Dominance - How to Properly Compare Deep Neural Models",
+      "authors": "Rotem Dror, Segev Shlomov, Roi Reichart",
+      "year": 2019,
+      "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+      "url": "https://aclanthology.org/P19-1266.pdf",
+  "type": "conference"
+    },  
+  {
     "title": "The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs",
       "authors": "Nitay Calderon, Roi Reichart, Rotem Dror",
       "year": 2025,
-      "venue": "ACL 2025",
+      "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
       "url": "https://arxiv.org/abs/2501.10970" ,
+    "type": "conference"
   },
     {
       "title": "State of What Art? A Call for Multi-Prompt LLM Evaluation",
       "authors": "Moran Mizrahi, Guy Kaplan, Dan Malkin, Rotem Dror, Dafna Shahaf, Gabriel Stanovsky",
       "year": 2024,
       "venue": "Transactions of the Association for Computational Linguistics",
-      "url": "https://aclanthology.org/2024.tacl-1.1/",
+      "url": "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00681/123885",
+      "type": "journal"
     },
-    {
-      "title": "DMLR: Data-centric Machine Learning Research – Past, Present and Future",
-      "authors": "Luis Oala, Manil Maskey, Lilith Bat-Leah, Alicia Parrish, Nezihe Merve Gürel, Tzu-Sheng Kuo, Yang Liu, Rotem Dror, Danilo Brajovic, Xiaozhe Yao, Max Bartolo, William A Gaviria Rojas, Ryan Hileman, Rainier Aliment, Michael W. Mahoney, Meg Risdal, Matthew Lease, Wojciech Samek, Debojyoti Dutta, Curtis G Northcutt et al.",
-      "year": 2023,
-      "venue": "The DMLR Journal",
-      "url": "https://arxiv.org/abs/2301.00001"
+{
+      "title": "Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets",
+      "authors": "Rotem Dror, Gili Baumer, Marina Bogomolov, Roi Reichart",
+      "year": 2017,
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "url": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00074/1567501/tacl_a_00074.pdf"
+  "type": "journal"
     },
-    {
+ {
+      "title": "A Statistical Analysis of Summarization Evaluation Metrics using Resampling Methods",
+      "authors": "Daniel Deutsch, Rotem Dror, Dan Roth",
+      "year": 2021,
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "url": "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00417/107833",
+   "type": "journal"
+    },
+  {
+      "title": "Statistical Significance Testing for Natural Language Processing",
+      "authors": "Rotem Dror, Lotem Peled-Cohen, Segev Shlomov, Roi Reichart",
+      "year": 2020,
+      "venue": "Morgan & Claypool Publishers",
+      "url": "https://www.morganclaypool.com/doi/abs/10.2200/S00945ED1V01Y202007HLT046",
+    "type": "book"
+    },
+{
+      "title": "On the Limitations of Reference-Free Evaluations of Generated Text",
+      "authors": "Daniel Deutsch, Rotem Dror, Dan Roth",
+      "year": 2022,
+      "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+      "url": "https://aclanthology.org/2022.emnlp-main.753/",
+  "type": "conference"
+    },
+  {
+      "title": "Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics",
+      "authors": "Daniel Deutsch, Rotem Dror, Dan Roth",
+      "year": 2022,
+      "venue": "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+      "url": "https://aclanthology.org/2022.naacl-main.442/",
+    "type": "conference"
+    }, 
+  {
+      "title": "RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios",
+      "authors": "Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Lai, Xudong Lin, Ziqi Wang, Iris Liu, Ben Zhou, Haoyang Wen, Manling Li, Darryl Hannan, Jie Lei, Hyounghun Kim, Rotem Dror, Haoyu Wang, Michael Regan, Qi Zeng, Qing Lyu, Charles Yu, Carl Edwards, Xiaomeng Jin, Yizhu Jiao, Ghazaleh Kazeminejad, Zhenhailong Wang, Chris Callison-Burch, Mohit Bansal, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang, Martha Palmer, Heng Ji",
+      "year": 2022,
+      "venue": "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations",
+      "url": "https://aclanthology.org/2022.naacl-demo.7.pdf",
+    "type": "conference"
+    },
+  {
       "title": "The Eval4NLP 2023 Shared Task on Prompting Large Language Models as Explainable Metrics",
       "authors": "Christoph Leiter, Juri Opitz, Daniel Deutsch, Yang Gao, Rotem Dror, Steffen Eger",
       "year": 2023,
       "venue": "arXiv",
-      "url": "https://arxiv.org/abs/2301.00002"
+      "url": "https://arxiv.org/pdf/2310.19792",
+    "type": "arXiv"
     },
-    {
-      "title": "Human-in-the-Loop Schema Induction",
-      "authors": "Tianyi Zhang, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Leon Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Windisch Brown, Reece Suchocki, Chris Callison-Burch",
-      "year": 2023,
-      "venue": "ACL 2023 Demo Track",
-      "url": "https://aclanthology.org/2023.acl-demo.1/"
-    },
-    {
+{
       "title": "Zero-Shot On-the-Fly Event Schema Induction",
       "authors": "Rotem Dror, Haoyu Wang, Dan Roth",
       "year": 2023,
-      "venue": "EACL 2023",
-      "url": "https://aclanthology.org/2023.eacl-main.1/"
-    },
+      "venue": "Findings of the Association for Computational Linguistics: EACL 2023",
+      "url": "https://aclanthology.org/2023.findings-eacl.53/",
+  "type": "conference"
+    },  
+{
+      "title": "Human-in-the-Loop Schema Induction",
+      "authors": "Tianyi Zhang, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch",
+      "year": 2023,
+      "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)",
+      "url": "https://aclanthology.org/2023.acl-demo.1/",
+  "type": "conference"
+    },  
     {
-      "title": "On the Limitations of Reference-Free Evaluations of Generated Text",
-      "authors": "Daniel Deutsch, Rotem Dror, Dan Roth",
-      "year": 2022,
-      "venue": "EMNLP 2022",
-      "url": "https://aclanthology.org/2022.emnlp-main.1/"
+      "title": "DMLR: Data-centric Machine Learning Research – Past, Present and Future",
+      "authors": "Luis Oala, Manil Maskey, Lilith Bat-Leah, Alicia Parrish, Nezihe Merve Gürel, Tzu-Sheng Kuo, Yang Liu, Rotem Dror, Danilo Brajovic, Xiaozhe Yao, Max Bartolo, William A Gaviria Rojas, Ryan Hileman, Rainier Aliment, Michael W Mahoney, Meg Risdal, Matthew Lease, Wojciech Samek, Debojyoti Dutta, Curtis G Northcutt, Cody Coleman, Braden Hancock, Bernard Koch, Girmaw Abebe Tadesse, Bojan Karlaš, Ahmed Alaa, Adji Bousso Dieng, Natasha Noy, Vijay Janapa Reddi, James Zou, Praveen Paritosh, Mihaela van der Schaar, Kurt Bollacker, Lora Aroyo, Ce Zhang, Joaquin Vanschoren, Isabelle Guyon, Peter Mattson",
+      "year": 2023,
+      "venue": "Journal of Data-centric Machine Learning Research (DMLR)",
+      "url": "https://data.mlr.press/assets/pdf/v01-5.pdf",
+      "type": "journal"
     },
+  {
+    "title": "The Curator's Helper",
+  "authors": "Rotem Dror, Daniel Hutchinson, Mason Jones, Victoria Van Hyning, Tsvi Kuflik",
+  "year": 2024,
+    "venue": "Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization",
+  "url": "https://dl.acm.org/doi/pdf/10.1145/3631700.3664905",
+  "type": "journal"
+  },
+  {
+"title": "140 characters of justice? the promise and perils of using social media to reveal lay punishment perspectives",
+    "authors": "Itay Ravid, Rotem Dror",
+  "year": 2023,
+    "venue": "University of Illinois Law Revisions",
+    "url": "https://digitalcommons.law.villanova.edu/cgi/viewcontent.cgi?article=1100&context=facpubs",
+    "type": "journal"
+  },
     {
-      "title": "Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics",
-      "authors": "Daniel Deutsch, Rotem Dror, Dan Roth",
-      "year": 2022,
-      "venue": "NAACL 2022",
-      "url": "https://aclanthology.org/2022.naacl-main.1/"
-    },
-    {
-      "title": "RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios",
-      "authors": "Rotem Dror, Haoyu Wang, Dan Roth",
-      "year": 2022,
-      "venue": "NAACL 2022 Demonstration Track",
-      "url": "https://aclanthology.org/2022.naacl-demos.1/"
-    },
-    {
-      "title": "A Statistical Analysis of Summarization Evaluation Metrics using Resampling Methods",
-      "authors": "Daniel Deutsch, Rotem Dror, Dan Roth",
-      "year": 2021,
-      "venue": "TACL",
-      "url": "https://aclanthology.org/2021.tacl-1.1/"
-    },
-    {
-      "title": "Statistical Significance Testing for Natural Language Processing",
-      "authors": "Rotem Dror, Gili Baumer, Marina Bogomolov, Roi Reichart",
-      "year": 2020,
-      "venue": "Morgan & Claypool Publishers",
-      "url": "https://www.morganclaypool.com/doi/abs/10.2200/S00945ED1V01Y202007HLT046"
-    },
-    {
-      "title": "The Structured Weighted Violations MIRA",
-      "authors": "Rotem Dror, Roi Reichart",
-      "year": 2020,
-      "venue": "arXiv",
-      "url": "https://arxiv.org/abs/2001.00001"
-    },
-    {
-      "title": "Deep Dominance - How to Properly Compare Deep Neural Models",
-      "authors": "Rotem Dror, Segev Shlomov, Roi Reichart",
-      "year": 2019,
-      "venue": "ACL 2019",
-      "url": "https://aclanthology.org/2019.acl-main.1/"
+      "title": "Diffusion-Driven Inertial Generated Data for Smartphone Location Classification",
+    "authors": "Noa Cohen, Rotem Dror, Itzik Klein",
+    "year": 2025,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/pdf/2504.15315?",
+      "type": "arXiv"
     },
     {
       "title": "Appendix - Recommended Statistical Significance Tests for NLP Tasks",
-      "authors": "Rotem Dror, Gili Baumer, Segev Shlomov, Roi Reichart",
+      "authors": "Rotem Dror, Roi Reichart",
       "year": 2018,
       "venue": "arXiv",
-      "url": "https://arxiv.org/abs/1801.00001"
-    },
-    {
-      "title": "The Hitchhiker's Guide to Testing Statistical Significance in Natural Language Processing",
-      "authors": "Rotem Dror, Gili Baumer, Segev Shlomov, Roi Reichart",
-      "year": 2018,
-      "venue": "ACL 2018",
-      "url": "https://aclanthology.org/2018.acl-main.1/"
-    },
-    {
-      "title": "Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets",
-      "authors": "Rotem Dror, Gili Baumer, Marina Bogomolov, Roi Reichart",
-      "year": 2017,
-      "venue": "TACL",
-      "url": "https://aclanthology.org/2017.tacl-1.1/"
-    },
-    {
-      "title": "Set-SMAA for Finding Preferable Multi-Objective Solutions",
-      "authors": "Rotem Dror, Roi Reichart",
-      "year": 2017,
-      "venue": "GECCO 2017",
-      "url": "https://dl.acm.org/doi/10.1145/3067695.3067700"
-    },
+      "url": "https://arxiv.org/pdf/1809.01448",
+      "type": "arXiv"
+    },    
     {
       "title": "The Structured Weighted Violations Perceptron Algorithm",
       "authors": "Rotem Dror, Roi Reichart",
       "year": 2016,
-      "venue": "EMNLP 2016",
-      "url": "https://aclanthology.org/2016.emnlp-main.1/"
-    }
+      "venue": "Conference of Empirical Methods in Natural Language Processing 2016",
+      "url": "https://aclanthology.org/D16-1045.pdf",
+      "type": "conference"
+    } 
+    
   ]
