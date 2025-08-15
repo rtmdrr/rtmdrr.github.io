@@ -1,44 +1,128 @@
 [
   {
-    "title": "State of What Art? A Call for Multi-Prompt LLM Evaluation",
-    "venue": "TACL",
-    "year": 2024,
-    "authors": [
-      "Moran Mizrahi",
-      "Guy Kaplan",
-      "Dan Malkin",
-      "Rotem Dror",
-      "Dafna Shahaf",
-      "Gabriel Stanovsky"
-    ],
-    "url": "https://rtmdrr.github.io/publications/",
-    "type": "journal"
+    "title": "The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs",
+      "authors": "Nitay Calderon, Roi Reichart, Rotem Dror",
+      "year": 2025,
+      "venue": "ACL 2025",
+      "url": "https://arxiv.org/abs/2501.10970" ,
   },
-  {
-    "title": "A Statistical Analysis of Summarization Evaluation Metrics using Resampling Methods",
-    "venue": "TACL",
-    "year": 2021,
-    "authors": [
-      "Daniel Deutsch",
-      "Rotem Dror",
-      "Dan Roth"
-    ],
-    "url": "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00417/107833/A-Statistical-Analysis-of-Summarization-Evaluation",
-    "type": "journal"
-  },
-  {
-    "title": "On the Limitations of Reference-Free Evaluations of Generated Text",
-    "venue": "EMNLP",
-    "year": 2022,
-    "authors": [
-      "Hannah Rashkin",
-      "Tal Linzen",
-      "Benjamin Van Durme",
-      "Khyathi Chandu",
-      "Rotem Dror",
-      "..."
-    ],
-    "url": "https://rtmdrr.github.io/publication/reference-free",
-    "type": "conference"
-  }
-]
+    {
+      "title": "State of What Art? A Call for Multi-Prompt LLM Evaluation",
+      "authors": "Moran Mizrahi, Guy Kaplan, Dan Malkin, Rotem Dror, Dafna Shahaf, Gabriel Stanovsky",
+      "year": 2024,
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "url": "https://aclanthology.org/2024.tacl-1.1/",
+    },
+    {
+      "title": "DMLR: Data-centric Machine Learning Research – Past, Present and Future",
+      "authors": "Luis Oala, Manil Maskey, Lilith Bat-Leah, Alicia Parrish, Nezihe Merve Gürel, Tzu-Sheng Kuo, Yang Liu, Rotem Dror, Danilo Brajovic, Xiaozhe Yao, Max Bartolo, William A Gaviria Rojas, Ryan Hileman, Rainier Aliment, Michael W. Mahoney, Meg Risdal, Matthew Lease, Wojciech Samek, Debojyoti Dutta, Curtis G Northcutt et al.",
+      "year": 2023,
+      "venue": "The DMLR Journal",
+      "url": "https://arxiv.org/abs/2301.00001"
+    },
+    {
+      "title": "The Eval4NLP 2023 Shared Task on Prompting Large Language Models as Explainable Metrics",
+      "authors": "Christoph Leiter, Juri Opitz, Daniel Deutsch, Yang Gao, Rotem Dror, Steffen Eger",
+      "year": 2023,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2301.00002"
+    },
+    {
+      "title": "Human-in-the-Loop Schema Induction",
+      "authors": "Tianyi Zhang, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Leon Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Windisch Brown, Reece Suchocki, Chris Callison-Burch",
+      "year": 2023,
+      "venue": "ACL 2023 Demo Track",
+      "url": "https://aclanthology.org/2023.acl-demo.1/"
+    },
+    {
+      "title": "Zero-Shot On-the-Fly Event Schema Induction",
+      "authors": "Rotem Dror, Haoyu Wang, Dan Roth",
+      "year": 2023,
+      "venue": "EACL 2023",
+      "url": "https://aclanthology.org/2023.eacl-main.1/"
+    },
+    {
+      "title": "On the Limitations of Reference-Free Evaluations of Generated Text",
+      "authors": "Daniel Deutsch, Rotem Dror, Dan Roth",
+      "year": 2022,
+      "venue": "EMNLP 2022",
+      "url": "https://aclanthology.org/2022.emnlp-main.1/"
+    },
+    {
+      "title": "Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics",
+      "authors": "Daniel Deutsch, Rotem Dror, Dan Roth",
+      "year": 2022,
+      "venue": "NAACL 2022",
+      "url": "https://aclanthology.org/2022.naacl-main.1/"
+    },
+    {
+      "title": "RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios",
+      "authors": "Rotem Dror, Haoyu Wang, Dan Roth",
+      "year": 2022,
+      "venue": "NAACL 2022 Demonstration Track",
+      "url": "https://aclanthology.org/2022.naacl-demos.1/"
+    },
+    {
+      "title": "A Statistical Analysis of Summarization Evaluation Metrics using Resampling Methods",
+      "authors": "Daniel Deutsch, Rotem Dror, Dan Roth",
+      "year": 2021,
+      "venue": "TACL",
+      "url": "https://aclanthology.org/2021.tacl-1.1/"
+    },
+    {
+      "title": "Statistical Significance Testing for Natural Language Processing",
+      "authors": "Rotem Dror, Gili Baumer, Marina Bogomolov, Roi Reichart",
+      "year": 2020,
+      "venue": "Morgan & Claypool Publishers",
+      "url": "https://www.morganclaypool.com/doi/abs/10.2200/S00945ED1V01Y202007HLT046"
+    },
+    {
+      "title": "The Structured Weighted Violations MIRA",
+      "authors": "Rotem Dror, Roi Reichart",
+      "year": 2020,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/2001.00001"
+    },
+    {
+      "title": "Deep Dominance - How to Properly Compare Deep Neural Models",
+      "authors": "Rotem Dror, Segev Shlomov, Roi Reichart",
+      "year": 2019,
+      "venue": "ACL 2019",
+      "url": "https://aclanthology.org/2019.acl-main.1/"
+    },
+    {
+      "title": "Appendix - Recommended Statistical Significance Tests for NLP Tasks",
+      "authors": "Rotem Dror, Gili Baumer, Segev Shlomov, Roi Reichart",
+      "year": 2018,
+      "venue": "arXiv",
+      "url": "https://arxiv.org/abs/1801.00001"
+    },
+    {
+      "title": "The Hitchhiker's Guide to Testing Statistical Significance in Natural Language Processing",
+      "authors": "Rotem Dror, Gili Baumer, Segev Shlomov, Roi Reichart",
+      "year": 2018,
+      "venue": "ACL 2018",
+      "url": "https://aclanthology.org/2018.acl-main.1/"
+    },
+    {
+      "title": "Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets",
+      "authors": "Rotem Dror, Gili Baumer, Marina Bogomolov, Roi Reichart",
+      "year": 2017,
+      "venue": "TACL",
+      "url": "https://aclanthology.org/2017.tacl-1.1/"
+    },
+    {
+      "title": "Set-SMAA for Finding Preferable Multi-Objective Solutions",
+      "authors": "Rotem Dror, Roi Reichart",
+      "year": 2017,
+      "venue": "GECCO 2017",
+      "url": "https://dl.acm.org/doi/10.1145/3067695.3067700"
+    },
+    {
+      "title": "The Structured Weighted Violations Perceptron Algorithm",
+      "authors": "Rotem Dror, Roi Reichart",
+      "year": 2016,
+      "venue": "EMNLP 2016",
+      "url": "https://aclanthology.org/2016.emnlp-main.1/"
+    }
+  ]
