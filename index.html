@@ -37,18 +37,6 @@
 />
 </section>
 
-  <!-- Optional: JSON-based dynamic update (fallback already in place) -->
-  <script>
-    fetch('data/profile.json')
-      .then(response => response.json())
-      .then(data => {
-        if (data.photo) document.getElementById('profile-pic').src = data.photo;
-        if (data.name) document.getElementById('profile-name').textContent = data.name;
-        if (data.bio) document.getElementById('profile-bio').textContent = data.bio;
-      })
-      .catch(err => console.log("Profile JSON not loaded:", err));
-  </script>
-
   <main class="container">
     <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
       <article class="card">
