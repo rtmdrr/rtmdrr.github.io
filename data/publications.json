@@ -150,6 +150,68 @@
       "venue": "Conference of Empirical Methods in Natural Language Processing 2016",
       "url": "https://aclanthology.org/D16-1045.pdf",
       "type": "conference"
-    } 
-    
+    },
+  {
+    "title": "Diffusion Denoiser-Aided Gyrocompassing",
+  "authors": "Gershy Ben-Arie, Daniel Engelsman, Rotem Dror, Itzik Klein",
+  "year": 2025,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/pdf/2507.21245",
+  "type": "arXiv"
+  },
+  {
+    "title": "GEM2 Workshop: Generation, Evaluation & Metrics",
+  "authors": "Ofir Arviv, Miruna Clinciu, Kaustubh Dhole, Rotem Dror, Eliya Habba, Itay Itzhak, Yotam Perlitz, Michal Shmueli-Scheuer, Gabriel Stanovsky",
+  "year": 2025,
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+  "url": "https://research.ibm.com/publications/gem2-workshop-generation-evaluation-and-metrics",
+  "type": "workshop"
+  },
+  {
+    "title": "Image-Based POI Identification for Mobile Museum Guides: Design, Implementation, and User Evaluation",
+  "authors": "Bashar Egbariya, Rotem Dror, Tsvi Kuflik, Ilan Shimshoni",
+  "year": 2025,
+  "venue": "Heritage",
+  "url": "https://search.proquest.com/openview/0e8612fd1fe9d40c8b6567823b39b61b/1?pq-origsite=gscholar&cbl=5046894",
+  "type": "journal"
+  },
+  {
+    "title": "Using Facial Expressions to Predict Process Mining Task Performance",
+  "authors": "Lital Shalev, Irit Hadar, Rotem Dror, Adir Solomon, Elizaveta Sorokina, Michal Weisman Raymond, Pnina Soffer",
+  "year": 2024,
+  "venue": "International Conference on Process Mining",
+  "url": "https://link.springer.com/chapter/10.1007/978-3-031-82225-4_41",
+  "type": "conference"
+  },
+  {
+    "title": "Proceedings of the 4th Workshop on Evaluation and Comparison of NLP Systems",
+  "authors": "Daniel Deutsch, Rotem Dror, Steffen Eger, Yang Gao, Christoph Leiter, Juri Opitz, Andreas Rücklé",
+    "year": 2023,
+    "venue": "Proceedings of the 4th Workshop on Evaluation and Comparison of NLP Systems",
+  "url": "https://aclanthology.org/2023.eval4nlp-1.0.pdf",
+  "type": "workshop"
+  },
+  {
+    "title": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop",
+  "authors": "Shruti Rijhwani, Jiangming Liu, Yizhong Wang, Rotem Dror",
+  "year": 2020,
+  "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop",
+  "url": "https://aclanthology.org/2020.acl-srw.0.pdf",
+  "type": "workshop"
+  },
+  {
+    "title": "The Structured Weighted Violations MIRA",
+  "authors": "Dor Ringel, Rotem Dror, Roi Reichart",
+  "year": 2020,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/pdf/2005.04418",
+  "type": "arXiv"},
+  {
+    "title": "Set-SMAA for finding preferable multi-objective solutions",
+    "authors": "Rotem Dror, Amir Kantor, Michael Masin, Segev Shlomov",
+  "year": 2017,
+  "venue": "Proceedings of the Genetic and Evolutionary Computation Conference Companion",
+  "url": "https://dl.acm.org/doi/abs/10.1145/3067695.3076005",
+  "type": "conference"
+  }
   ]
