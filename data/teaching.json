@@ -1,12 +1,12 @@
 [
   {
-    "course": "Deep Learning (Graduate)",
-    "term": "Spring 2025",
+    "course": "Deep Learning",
+    "term": "Fall 2025",
     "link": "#"
   },
   {
-    "course": "Natural Language Processing",
-    "term": "Fall 2024",
+    "course": "Statistical Methods for Data Science",
+    "term": "Spring 2024",
     "link": "#"
   }
 ]
