@@ -7,9 +7,8 @@
   "links": {
     "Google Scholar": "https://scholar.google.com/citations?hl=en&user=ZB0tZNEAAAAJ",
     "GitHub": "https://github.com/rtmdrr",
-    "LinkedIn": "https://www.linkedin.com/in/rotem-dror-3a8a779b/",
-    "Twitter": "https://x.com/DrorRotem",
-    "OpenReview": "https://openreview.net/profile?id=~Rotem_Dror2"
+    "LinkedIn": "https://www.linkedin.com/in/rotem-dror-43664938/",
+    "Twitter": "https://x.com/DrorRotem"
   },
   "photo": "assets/DSC00016.jpg",
   "bio": "My work focuses on enhancing the statistical rigor of model evaluation, particularly in NLP. I develop methodologies that improve the reliability, fairness, and interpretability of empirical results and generated text outputs by NLP models such as LLMs."
