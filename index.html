@@ -32,15 +32,22 @@
 
   <!-- JS to dynamically update profile from JSON -->
   <script>
-  fetch('data/profile.json')
-    .then(response => response.json())
-    .then(data => {
-      if (data.photo) document.getElementById('profile-pic').src = data.photo;
-      if (data.name) document.getElementById('profile-name').textContent = data.name;
-      if (data.bio) document.getElementById('profile-bio').textContent = data.bio;
-    })
-    .catch(err => console.log("Could not load profile.json:", err));
-  </script>
+fetch('data/profile.json')
+  .then(response => response.json())
+  .then(data => {
+    // Only update if the data exists
+    if (data.photo) {
+      document.getElementById('profile-pic').src = data.photo;
+    }
+    if (data.name) {
+      document.getElementById('profile-name').textContent = data.name;
+    }
+    if (data.bio) {
+      document.getElementById('profile-bio').textContent = data.bio;
+    }
+  })
+  .catch(err => console.log("Profile JSON not loaded:", err));
+</script>
 
   <main class="container">
     <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
