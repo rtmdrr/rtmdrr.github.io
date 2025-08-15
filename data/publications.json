@@ -4,7 +4,7 @@
   "authors": "Rotem Dror, Gili Baumer, Segev Shlomov, Roi Reichart",
   "year": 2018,
     "venue": "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics",
-  "url": "https://aclanthology.org/P18-1128.pdf"
+  "url": "https://aclanthology.org/P18-1128.pdf",
   "type": "conference"
   },
 {
@@ -20,7 +20,7 @@
       "authors": "Nitay Calderon, Roi Reichart, Rotem Dror",
       "year": 2025,
       "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
-      "url": "https://arxiv.org/abs/2501.10970" ,
+      "url": "https://arxiv.org/abs/2501.10970",
     "type": "conference"
   },
     {
@@ -36,7 +36,7 @@
       "authors": "Rotem Dror, Gili Baumer, Marina Bogomolov, Roi Reichart",
       "year": 2017,
       "venue": "Transactions of the Association for Computational Linguistics",
-      "url": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00074/1567501/tacl_a_00074.pdf"
+      "url": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00074/1567501/tacl_a_00074.pdf",
   "type": "journal"
     },
  {
