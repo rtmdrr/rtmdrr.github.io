@@ -19,50 +19,55 @@
       <a href="https://scholar.google.com/citations?hl=en&user=ZB0tZNEAAAAJ" target="_blank" rel="noopener" class="badge">Google Scholar</a>
     </nav>
   </header>
-<section id="profile" class="profile">
-  <img id="profile-pic" src="assets/DSC00016.jpg" alt="Rotem Dror" class="profile-pic">
-  <div class="profile-text">
-    <h1 id="profile-name">Rotem Dror</h1>
-    <p id="profile-bio">Assistant Professor of NLP at the University of Haifa. Reliability, fairness, and interpretability of NLP evaluation. Statistical methods for robust conclusions.</p>
-  </div>
-</section>
 
-<script>
-fetch('data/profile.json')
-  .then(response => response.json())
-  .then(data => {
-    document.getElementById('profile-pic').src = data.photo;
-    document.getElementById('profile-name').textContent = data.name;
-    document.getElementById('profile-bio').textContent = data.bio;
-  });
-</script>
+  <!-- Profile Section -->
+  <section id="profile" class="profile">
+    <!-- Fallback content -->
+    <img id="profile-pic" src="assets/DSC00016.jpg" alt="Rotem Dror" class="profile-pic">
+    <div class="profile-text">
+      <h1 id="profile-name">Rotem Dror</h1>
+      <p id="profile-bio">Assistant Professor of NLP at the University of Haifa. Reliability, fairness, and interpretability of NLP evaluation. Statistical methods for robust conclusions.</p>
+    </div>
+  </section>
+
+  <!-- JS to dynamically update profile from JSON -->
+  <script>
+  fetch('data/profile.json')
+    .then(response => response.json())
+    .then(data => {
+      if (data.photo) document.getElementById('profile-pic').src = data.photo;
+      if (data.name) document.getElementById('profile-name').textContent = data.name;
+      if (data.bio) document.getElementById('profile-bio').textContent = data.bio;
+    })
+    .catch(err => console.log("Could not load profile.json:", err));
+  </script>
 
   <main class="container">
-    
-  <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
-    <article class="card">
-      <h2>Research</h2>
-      <p>Reliability, fairness, and interpretability of NLP evaluation. Statistical methods for robust conclusions.</p>
-      <p><a href="./publications.html">Explore publications →</a></p>
-    </article>
-    <article class="card">
-      <h2>Talks</h2>
-      <p>Invited talks and conference presentations.</p>
-      <p><a href="./talks.html">See talks →</a></p>
-    </article>
-    <article class="card">
-      <h2>Teaching</h2>
-      <p>Courses, syllabi, and materials.</p>
-      <p><a href="./teaching.html">View courses →</a></p>
-    </article>
-  </div>
-
+    <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
+      <article class="card">
+        <h2>Research</h2>
+        <p>Reliability, fairness, and interpretability of NLP evaluation. Statistical methods for robust conclusions.</p>
+        <p><a href="./publications.html">Explore publications →</a></p>
+      </article>
+      <article class="card">
+        <h2>Talks</h2>
+        <p>Invited talks and conference presentations.</p>
+        <p><a href="./talks.html">See talks →</a></p>
+      </article>
+      <article class="card">
+        <h2>Teaching</h2>
+        <p>Courses, syllabi, and materials.</p>
+        <p><a href="./teaching.html">View courses →</a></p>
+      </article>
+    </div>
   </main>
+
   <footer class="footer">
     <div class="container">
       <small class="muted">© Rotem Dror 2025. Built with vanilla HTML/CSS/JS · Auto-updating publications via GitHub Actions + Google Scholar.</small>
     </div>
   </footer>
+
   <script src="assets/main.js" defer></script>
 </body>
 </html>
