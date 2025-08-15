@@ -11,6 +11,6 @@
     "Twitter": "https://x.com/DrorRotem",
     "OpenReview": "https://openreview.net/profile?id=~Rotem_Dror2"
   },
-  "photo":
+  "photo": "assets/DSC00016.jpg",
   "bio": "My work focuses on enhancing the statistical rigor of model evaluation, particularly in NLP. I develop methodologies that improve the reliability, fairness, and interpretability of empirical results and generated text outputs by NLP models such as LLMs."
 }
