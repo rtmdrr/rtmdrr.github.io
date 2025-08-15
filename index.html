@@ -19,10 +19,11 @@
       <a href="https://scholar.google.com/citations?hl=en&user=ZB0tZNEAAAAJ" target="_blank" rel="noopener" class="badge">Google Scholar</a>
     </nav>
   </header>
-  <section id="profile" class="profile">
-  <img src="assets/DSC00016.jpg" alt="Rotem Dror" class="profile-pic">
+<section id="profile" class="profile">
+  <img id="profile-pic" src="assets/DSC00016.jpg" alt="Rotem Dror" class="profile-pic">
   <div class="profile-text">
-    <h1>Rotem Dror</h1>
+    <h1 id="profile-name">Rotem Dror</h1>
+    <p id="profile-bio">Assistant Professor of NLP at the University of Haifa. Reliability, fairness, and interpretability of NLP evaluation. Statistical methods for robust conclusions.</p>
   </div>
 </section>
 
@@ -35,6 +36,7 @@ fetch('data/profile.json')
     document.getElementById('profile-bio').textContent = data.bio;
   });
 </script>
+
   <main class="container">
     
   <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
