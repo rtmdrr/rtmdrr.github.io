@@ -1,9 +1,15 @@
 [
   {
+    "title": "Data Annotation in the Era of LLMs - Thoughts and Good Practices",
+    "date": "2025-07-31",
+    "event": "ACL 2025 - Linguistic Annotation Workshop",
+    "link": "https://sigann.github.io/LAW-XIX-2025/invited.html"
+  }
+  {
     "title": "A Statistical Analysis of Automatic Evaluation Metrics for Summarization",
     "date": "2022-04-29",
     "event": "ICLR 2022 - ML Evaluation Standards Workshop",
-    "link": "https://iclr.cc/virtual/2022/workshop/4559#wse-detail-7274"
+    "link": "https://iclr.cc/virtual/2022/7274"
   },
   {
     "title": "Deep Dominance - How to Properly Compare Deep Neural Models",
