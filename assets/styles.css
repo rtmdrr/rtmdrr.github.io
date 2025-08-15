@@ -25,7 +25,9 @@ header { position: sticky; top: 0; backdrop-filter: blur(6px); background: rgba(
 .year { margin: 2rem 0 1rem; font-size: 1.25rem; }
 small.muted { color: #64748b; }
 .profile {
-    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 2rem;       /* space between image and text */
     margin: 2rem 0;
 }
 
@@ -33,8 +35,17 @@ small.muted { color: #64748b; }
     border-radius: 50%;
     width: 150px;
     height: 150px;
-    display: block;
-    margin: 0 auto 1rem auto;
     object-fit: cover;
+    margin: 0;       /* remove auto centering */
 }
+
+.profile-text h1 {
+    margin: 0 0 0.5rem 0;
+}
+
+.profile-text p {
+    margin: 0;
+    max-width: 600px; /* optional: keep text readable */
+}
+
 
