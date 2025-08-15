@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Publications • Rotem Dror</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+  <meta name="description" content="Rotem Dror — Assistant Professor of NLP at the University of Haifa" />
+</head>
+<body id="publications">
+  <header>
+    <nav class="nav">
+      <a class="brand" href="./">Rotem Dror</a>
+      <a href="./publications.html">Publications</a>
+      <a href="./talks.html">Talks</a>
+      <a href="./teaching.html">Teaching</a>
+      <a href="./cv.html">CV</a>
+      <span class="spacer"></span>
+      <a href="https://scholar.google.com/citations?hl=en&user=ZB0tZNEAAAAJ" target="_blank" rel="noopener" class="badge">Google Scholar</a>
+    </nav>
+  </header>
+  
+  <main class="container">
+    
+  <div class="grid" style="grid-template-columns: 1fr;">
+    <input class="search" id="pub-search" placeholder="Search by title, author, or venue…" oninput="filterPubs(this.value)" />
+    <div id="pubs"></div>
+  </div>
+  <script>
+  function filterPubs(q) {
+    q = (q || "").toLowerCase();
+    document.querySelectorAll("#pubs .pub").forEach(card => {
+      const txt = card.innerText.toLowerCase();
+      card.style.display = txt.includes(q) ? "" : "none";
+    });
+  }
+  </script>
+
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <small class="muted">© Rotem Dror 2025. Built with vanilla HTML/CSS/JS · Auto-updating publications via GitHub Actions + Google Scholar.</small>
+    </div>
+  </footer>
+  <script src="assets/main.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "State of What Art? A Call for Multi-Prompt LLM Evaluation",
+    "venue": "TACL",
+    "year": 2024,
+    "authors": [
+      "Moran Mizrahi",
+      "Guy Kaplan",
+      "Dan Malkin",
+      "Rotem Dror",
+      "Dafna Shahaf",
+      "Gabriel Stanovsky"
+    ],
+    "url": "https://rtmdrr.github.io/publications/",
+    "type": "journal"
+  },
+  {
+    "title": "A Statistical Analysis of Summarization Evaluation Metrics using Resampling Methods",
+    "venue": "TACL",
+    "year": 2021,
+    "authors": [
+      "Daniel Deutsch",
+      "Rotem Dror",
+      "Dan Roth"
+    ],
+    "url": "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00417/107833/A-Statistical-Analysis-of-Summarization-Evaluation",
+    "type": "journal"
+  },
+  {
+    "title": "On the Limitations of Reference-Free Evaluations of Generated Text",
+    "venue": "EMNLP",
+    "year": 2022,
+    "authors": [
+      "Hannah Rashkin",
+      "Tal Linzen",
+      "Benjamin Van Durme",
+      "Khyathi Chandu",
+      "Rotem Dror",
+      "..."
+    ],
+    "url": "https://rtmdrr.github.io/publication/reference-free",
+    "type": "conference"
+  }
+]
