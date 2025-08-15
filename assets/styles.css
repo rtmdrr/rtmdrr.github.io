@@ -151,8 +151,15 @@ small.muted {
     display: flex;
     align-items: center;
     gap: 2rem;
-    margin: 2rem 0;
-    flex-wrap: wrap; /* Responsive: stacks on small screens */
+    margin: 2rem auto;
+    max-width: 980px;   /* align with main content */
+    padding: 0 1rem;
+    flex-wrap: wrap-reverse; /* image on right on wide screens, stacked on small screens */
+}
+
+.profile-text {
+    flex: 1;
+    min-width: 200px;
 }
 
 .profile-pic {
@@ -160,16 +167,6 @@ small.muted {
     width: 150px;
     height: 150px;
     object-fit: cover;
-    margin: 0;
-}
-
-.profile-text h1 {
-    margin: 0 0 0.5rem 0;
-}
-
-.profile-text p {
-    margin: 0;
-    max-width: 600px;
 }
 
 /* Responsive adjustments */
