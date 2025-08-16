@@ -25,9 +25,11 @@ async function hydrateProfile() {
             </p>
           </div>
           <div style="display:flex; justify-content:center; align-items:flex-start;">
-  <img src="${p.photo}" 
-       alt="${p.name}" 
-       style="max-width: 260px; height:auto; border-radius:50%; object-fit:cover;" />
+  <div style="width: 240px; height: 240px; overflow: hidden; border-radius: 50%;">
+    <img src="${p.photo}" 
+         alt="${p.name}" 
+         style="width:100%; height:100%; object-fit: cover; object-position: top;" />
+  </div>
 </div>
         </div>
       </div>
