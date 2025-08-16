@@ -24,9 +24,11 @@ async function hydrateProfile() {
               <span>${renderLinks(p.links)}</span>
             </p>
           </div>
-          <div>
-          <img src="${p.photo}" alt="${p.name}" style="display:flex; justify-content:center; align-items:center;" />
-          </div>
+          <div style="display:flex; justify-content:center; align-items:flex-start;">
+  <img src="${p.photo}" 
+       alt="${p.name}" 
+       style="max-width: 180px; height:auto; border-radius:50%; object-fit:cover;" />
+</div>
         </div>
       </div>
     </div>
