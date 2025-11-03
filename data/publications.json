@@ -20,18 +20,6 @@
     "url": "https://arxiv.org/abs/2501.10970"
   },
   {
-    "title": "Optimizing combined sensory data by utilitarian selection of a subgroup of available sensors",
-    "venue": "",
-    "year": 2025,
-    "authors": [
-      "Amir Kantor",
-      "Michael Masin",
-      "Segev Shlomov",
-      "Rotem Dror"
-    ],
-    "url": "https://patents.google.com/patent/US12353502B2/en"
-  },
-  {
     "title": "Image-Based POI Identification for Mobile Museum Guides: Design, Implementation, and User Evaluation",
     "venue": "Heritage",
     "year": 2025,
@@ -368,6 +356,18 @@
       "Rotem Dror"
     ],
     "url": "https://aclanthology.org/2020.acl-srw.0.pdf"
+  },
+  {
+    "title": "Pareto-efficient probabilistic solutions",
+    "venue": "",
+    "year": 2019,
+    "authors": [
+      "Amir Kantor",
+      "Michael Masin",
+      "Segev Shlomov",
+      "Rotem Dror"
+    ],
+    "url": "https://patents.google.com/patent/US20190266215A1/en"
   },
   {
     "title": "Deep dominance-how to properly compare deep neural models",
