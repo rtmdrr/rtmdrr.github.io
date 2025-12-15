@@ -20,6 +20,18 @@
     "url": "https://arxiv.org/abs/2501.10970"
   },
   {
+    "title": "Optimizing combined sensory data by utilitarian selection of a subgroup of available sensors",
+    "venue": "",
+    "year": 2025,
+    "authors": [
+      "Amir Kantor",
+      "Michael Masin",
+      "Segev Shlomov",
+      "Rotem Dror"
+    ],
+    "url": "https://patents.google.com/patent/US12353502B2/en"
+  },
+  {
     "title": "Image-Based POI Identification for Mobile Museum Guides: Design, Implementation, and User Evaluation",
     "venue": "Heritage",
     "year": 2025,
@@ -111,6 +123,17 @@
     "url": "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00681/123885"
   },
   {
+    "title": "Zero-shot on-the-fly event schema induction",
+    "venue": "",
+    "year": 2023,
+    "authors": [
+      "Rotem Dror",
+      "Haoyu Wang",
+      "Dan Roth"
+    ],
+    "url": "https://aclanthology.org/2023.findings-eacl.53/"
+  },
+  {
     "title": "The eval4nlp 2023 shared task on prompting large language models as explainable metrics",
     "venue": "arXiv preprint arXiv:2310.19792",
     "year": 2023,
@@ -141,14 +164,14 @@
   },
   {
     "title": "Human-in-the-loop schema induction",
-    "venue": "arXiv preprint arXiv:2302.13048",
+    "venue": "",
     "year": 2023,
     "authors": [
       "Tianyi Zhang",
       "Isaac Tham",
       "Zhaoyi Hou",
       "Jiaxuan Ren",
-      "Liyang Zhou",
+      "Leon Zhou",
       "Hainiu Xu",
       "Li Zhang",
       "Lara J Martin",
@@ -156,11 +179,11 @@
       "Sha Li",
       "Heng Ji",
       "Martha Palmer",
-      "Susan Brown",
+      "Susan Windisch Brown",
       "Reece Suchocki",
       "Chris Callison-Burch"
     ],
-    "url": "https://arxiv.org/abs/2302.13048"
+    "url": "https://aclanthology.org/2023.acl-demo.1/"
   },
   {
     "title": "DMLR: Data-centric Machine Learning Research--Past, Present and Future",
@@ -219,17 +242,6 @@
     "url": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/unilllr2023&section=44"
   },
   {
-    "title": "Zero-shot on-the-fly event schema induction",
-    "venue": "arXiv preprint arXiv:2210.06254",
-    "year": 2022,
-    "authors": [
-      "Rotem Dror",
-      "Haoyu Wang",
-      "Dan Roth"
-    ],
-    "url": "https://arxiv.org/abs/2210.06254"
-  },
-  {
     "title": "Re-examining system-level correlations of automatic summarization evaluation metrics",
     "venue": "arXiv preprint arXiv:2204.10216",
     "year": 2022,
@@ -281,24 +293,6 @@
       "Heng Ji"
     ],
     "url": "https://aclanthology.org/2022.naacl-demo.7/"
-  },
-  {
-    "title": "Protozoa populations are ecosystem engineers that shape prokaryotic community structure and function of the rumen microbial ecosystem",
-    "venue": "The ISME Journal",
-    "year": 2022,
-    "authors": [
-      "Ronnie Solomon",
-      "Tanita Wein",
-      "Bar Levy",
-      "Shahar Eshed",
-      "Rotem Dror",
-      "Veronica Reiss",
-      "Tamar Zehavi",
-      "Ori Furman",
-      "Itzhak Mizrahi",
-      "Elie Jami"
-    ],
-    "url": "https://academic.oup.com/ismej/article-abstract/16/4/1187/7474158"
   },
   {
     "title": "On the limitations of reference-free evaluations of generated text",
@@ -356,18 +350,6 @@
       "Rotem Dror"
     ],
     "url": "https://aclanthology.org/2020.acl-srw.0.pdf"
-  },
-  {
-    "title": "Pareto-efficient probabilistic solutions",
-    "venue": "",
-    "year": 2019,
-    "authors": [
-      "Amir Kantor",
-      "Michael Masin",
-      "Segev Shlomov",
-      "Rotem Dror"
-    ],
-    "url": "https://patents.google.com/patent/US20190266215A1/en"
   },
   {
     "title": "Deep dominance-how to properly compare deep neural models",
