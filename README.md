@@ -1,19 +1,41 @@
-# rtmdrr.github.io — Modern static site
-Static site for your academic homepage. It renders publications from `data/publications.json`.
+# rtmdrr.github.io
 
-## Deploy on GitHub Pages
-Push to the root of `rtmdrr/rtmdrr.github.io` on branch `main`. In Settings → Pages, choose `main` and `/ (root)`.
+Personal academic website of Rotem Dror. Plain HTML/CSS/JS, no build step.
 
-## Auto-updating publications
-- Weekly + manual run via `.github/workflows/scholar.yml`.
-- It runs `scholar_update.py` to scrape Google Scholar (ID `ZB0tZNEAAAAJ`) and overwrite `data/publications.json`.
-- Note: Google Scholar has no official API; scraping can be throttled. Re-run manually if needed.
+## Files
 
-## Customize
-- Edit `data/profile.json`, `data/talks.json`, `data/teaching.json`.
-- Styles in `assets/styles.css`.
+| File | What it is |
+| --- | --- |
+| `index.html` | Home: bio, links, call for students, recent publications |
+| `research.html` | Research vision and topics |
+| `publications.html` | Full publication list (rendered from `data/publications.json`) |
+| `students.html` | Students and alumni (edit the lists directly) |
+| `data/publications.json` | Publication data, refreshed weekly from Google Scholar |
+| `data/publications_extra.json` | Optional: papers missing from Scholar, merged in by title |
+| `scripts/update_publications.py` | The updater |
+| `.github/workflows/update-publications.yml` | Runs the updater every Monday |
+| `assets/photo.jpg` | Optional: add a portrait and it appears on the home page |
 
-## Local preview
-```bash
-python -m http.server -d . 8080
-```
+## Deploying
+
+1. Replace the contents of the `rtmdrr.github.io` repository with these files
+   (keep `.nojekyll` and the `.github` folder; delete the old `cv.html`, `talks.html`, `teaching.html`).
+2. In the repository: **Settings > Actions > General > Workflow permissions**, choose
+   **Read and write permissions** so the workflow can commit the updated list.
+3. Go to the **Actions** tab, open "Update publications from Google Scholar" and click
+   **Run workflow** once to pull the current Scholar list.
+
+## Automatic publication updates
+
+The workflow tries Google Scholar with the free `scholarly` package. Google sometimes
+blocks requests from GitHub's servers; when that happens nothing is overwritten and
+the site keeps the last good list.
+
+For a reliable update, create a free account at serpapi.com and add the API key as a
+repository secret named `SERPAPI_KEY` (Settings > Secrets and variables > Actions).
+The script uses it automatically. One run per week stays well inside the free tier.
+
+## Previewing locally
+
+The publication list is loaded with `fetch`, which browsers block for `file://` pages.
+Run `python3 -m http.server` in this folder and open http://localhost:8000.

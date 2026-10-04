@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Research | Rotem Dror</title>
+<meta name="description" content="Rotem Dror, Senior Lecturer (Assistant Professor) at the Department of Information Systems, University of Haifa. Research on statistically sound evaluation in NLP, data annotation and LLM-as-a-judge.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📐</text></svg>">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-name" href="index.html">Rotem Dror</a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="index.html">Home</a>
+      <a href="research.html" aria-current="page">Research</a>
+      <a href="publications.html">Publications</a>
+      <a href="students.html">Students</a>
+      <a href="https://scholar.google.com/citations?hl=en&amp;user=ZB0tZNEAAAAJ">Google Scholar</a>
+    </nav>
+  </div>
+</header>
+<main>
+<div class="wrap">
+
+<h1>Research</h1>
+
+<h2>Vision</h2>
+<p class="lede">Progress in AI is measured through experiments, and experiments are only as trustworthy as the methods used to run and interpret them. My research asks a simple question that turns out to be hard: when an NLP paper, a benchmark, or a deployed system claims that one model is better than another, or that a model can replace a human, how do we know that the claim is true?</p>
+<p>My answer draws on statistics, experimental design, and machine learning. I develop methods that let researchers and practitioners test their claims properly: significance tests suited to NLP data, protocols for comparing models across many datasets and many prompts, measures of annotation quality, and statistical procedures for deciding when an LLM can stand in for human annotators or judges. I then put these methods to work on real problems, often with collaborators from psychology, education, law, and the life sciences.</p>
+<p>Looking ahead, I want to set standards for hybrid workflows in which humans and LLMs work together, so that the gains in speed and cost do not come at the price of data quality or place a heavier cognitive load on the people involved. I am also interested in modeling and evaluating LLM personas, with the goal of building personalized models whose behavior is validated rather than assumed. The broader conviction behind this agenda is that rapid advances in AI must be matched by careful protocols, and eventually regulation, that make its deployment scientifically rigorous, ethical, and cost-effective across society.</p>
+
+<h2>Research topics</h2>
+
+<div class="topic">
+  <h3>Statistically sound evaluation in NLP</h3>
+  <p>Much of my early work addressed how NLP results are compared and reported. This includes guidance on choosing the right significance test for a given evaluation measure, replicability analysis for conclusions drawn from multiple datasets, and a criterion for comparing deep neural models that accounts for the variance across random seeds and hyperparameters. These ideas are collected in a book on statistical significance testing for NLP. With colleagues at the University of Pennsylvania, I extended this line of work to the meta-evaluation of automatic metrics, showing how much uncertainty surrounds correlations between metrics and human judgments.</p>
+  <ul class="reps">
+    <li>The Hitchhiker's Guide to Testing Statistical Significance in NLP (ACL 2018)</li>
+    <li>Replicability Analysis for NLP: Testing Significance with Multiple Datasets (TACL 2017)</li>
+    <li>Deep Dominance: How to Properly Compare Deep Neural Models (ACL 2019)</li>
+    <li>Statistical Significance Testing for Natural Language Processing (Morgan &amp; Claypool, 2020)</li>
+    <li>A Statistical Analysis of Summarization Evaluation Metrics Using Resampling Methods (TACL 2021)</li>
+  </ul>
+</div>
+
+<div class="topic">
+  <h3>Evaluating large language models</h3>
+  <p>LLMs are sensitive to how they are prompted, and evaluations built on a single prompt can rank models in ways that do not hold up. I work on evaluation protocols that account for this variability, on the limits of reference-free evaluation of generated text, and on benchmarks for complex, goal-driven settings such as web agents.</p>
+  <ul class="reps">
+    <li>State of What Art? A Call for Multi-Prompt LLM Evaluation (TACL 2024)</li>
+    <li>On the Limitations of Reference-Free Evaluations of Generated Text (EMNLP 2022)</li>
+    <li><a href="https://arxiv.org/abs/2603.12710">AI Planning Framework for LLM-Based Web Agents</a> (2026)</li>
+  </ul>
+</div>
+
+<div class="topic">
+  <h3>Data annotation and LLM-as-a-judge</h3>
+  <p>LLMs are increasingly used to label data and to judge the outputs of other models. Whether they can replace human annotators is a statistical question, and I develop tests that answer it with explicit guarantees. Related work develops frameworks for measuring the quality and consistency of human annotators, including in subjective tasks where there is no single correct label. This direction is the focus of my Israel Science Foundation grant, <em>Data Annotation and Model Evaluation in the Era of Large Language Models</em>.</p>
+  <ul class="reps">
+    <li>The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs (ACL 2025)</li>
+  </ul>
+</div>
+
+<div class="topic">
+  <h3>LLM personas and role-playing agents</h3>
+  <p>Simulated users and role-playing agents are useful for research and for applications such as education and mental health, but only if their behavior is consistent and believable. I study how to build personas grounded in psychology and how to measure whether an agent actually maintains the persona it was given, including the naturalness of its dialogue.</p>
+  <ul class="reps">
+    <li><a href="https://arxiv.org/abs/2609.22255">Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations</a> (2026)</li>
+    <li>Multi-Agent Framework for Adaptive Social-Emotional Learning in Children's Digital Communication (IUI 2026)</li>
+  </ul>
+</div>
+
+<div class="topic">
+  <h3>Language technology for people and society</h3>
+  <p>I collaborate with researchers in other disciplines to apply NLP, and to evaluate it rigorously, in settings where the stakes are human. Current projects include Hebrew text simplification for accessibility, LLM-based adaptive surveys that measure extreme psychological responses, detection of behavioral and emotional themes in text, LLM-supported computer science education, and the analysis of public attitudes expressed on social media.</p>
+  <ul class="reps">
+    <li><a href="https://doi.org/10.3390/ai7020073">Breaking the Ceiling: Mitigating Extreme Response Bias in Surveys Using an Open-Ended Adaptive-Testing System and LLM-Based Response Analysis</a> (AI, 2026)</li>
+    <li><a href="https://doi.org/10.3390/systems14020123">Detecting Behavioral and Emotional Themes Through Latent and Explicit Knowledge</a> (Systems, 2026)</li>
+    <li>140 Characters of Justice? The Promise and Perils of Using Social Media to Reveal Lay Punishment Perspectives (U. Ill. L. Rev., 2023)</li>
+  </ul>
+</div>
+
+<p>The complete list is on the <a href="publications.html">publications</a> page.</p>
+</div>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <span>&copy; <span id="year">2026</span> Rotem Dror, University of Haifa</span>
+    <span>Taking a break? <a href="https://phdcomics.com/">PhD Comics</a></span>
+  </div>
+</footer>
+<script src="assets/site.js"></script>
+</body>
+</html>

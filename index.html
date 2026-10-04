@@ -1,57 +1,75 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Home • Rotem Dror</title>
-  <link rel="stylesheet" href="assets/styles.css" />
-  <meta name="description" content="Rotem Dror — Assistant Professor of NLP at the University of Haifa" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rotem Dror | University of Haifa</title>
+<meta name="description" content="Rotem Dror, Senior Lecturer (Assistant Professor) at the Department of Information Systems, University of Haifa. Research on statistically sound evaluation in NLP, data annotation and LLM-as-a-judge.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📐</text></svg>">
 </head>
-<body id="home">
-  <header>
-    <nav class="nav">
-      <a class="brand" href="./">Rotem Dror</a>
-      <a href="./publications.html">Publications</a>
-      <a href="./talks.html">Talks</a>
-      <a href="./teaching.html">Teaching</a>
-      <a href="./cv.html">CV</a>
-      <span class="spacer"></span>
-      <a href="https://scholar.google.com/citations?hl=en&user=ZB0tZNEAAAAJ" target="_blank" rel="noopener" class="badge">Google Scholar</a>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-name" href="index.html">Rotem Dror</a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="index.html" aria-current="page">Home</a>
+      <a href="research.html">Research</a>
+      <a href="publications.html">Publications</a>
+      <a href="students.html">Students</a>
+      <a href="https://scholar.google.com/citations?hl=en&amp;user=ZB0tZNEAAAAJ">Google Scholar</a>
     </nav>
-  </header>
+  </div>
+</header>
+<main>
+<div class="wrap">
 
-  <!-- Profile Section -->
-      <section id="profile" class="profile">
+<section class="profile has-photo">
+  <img src="assets/photo.jpg" alt="Rotem Dror" width="152" height="190">
+  <div>
+    <h1>Rotem Dror</h1>
+    <p class="role">Senior Lecturer (Assistant Professor)<br>
+      Department of Information Systems, Faculty of Computer and Information Science<br>
+      University of Haifa</p>
+    <ul class="links">
+      <li><a href="mailto:rdror@is.haifa.ac.il">rdror@is.haifa.ac.il</a></li>
+      <li><a href="https://scholar.google.com/citations?hl=en&amp;user=ZB0tZNEAAAAJ">Google Scholar</a></li>
+      <li><a href="https://www.linkedin.com/in/rotem-dror-43664938">LinkedIn</a></li>
+      <li><a href="https://github.com/rtmdrr">GitHub</a></li>
+      <li><a href="https://huggingface.co/rtmdrr">Hugging Face</a></li>
+      <!-- To add X / Twitter or Bluesky, uncomment and fill in your handle:
+      <li><a href="https://x.com/YOUR_HANDLE">X / Twitter</a></li>
+      <li><a href="https://bsky.app/profile/YOUR_HANDLE">Bluesky</a></li>
+      -->
+    </ul>
+  </div>
 </section>
 
-  <main class="container">
-    <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
-      <article class="card">
-        <h2>Research</h2>
-        <p>Reliability, fairness, and interpretability of NLP evaluation. Statistical methods for robust conclusions.</p>
-        <p><a href="./publications.html">Explore publications →</a></p>
-      </article>
-      <article class="card">
-        <h2>Talks</h2>
-        <p>Invited talks and conference presentations.</p>
-        <p><a href="./talks.html">See talks →</a></p>
-      </article>
-      <article class="card">
-        <h2>Teaching</h2>
-        <p>Courses, syllabi, and materials.</p>
-        <p><a href="./teaching.html">View courses →</a></p>
-      </article>
-    </div>
-  </main>
+<h2>About</h2>
+<p class="lede">I study how to draw reliable conclusions from empirical evidence in natural language processing. My work develops statistically sound methods for evaluating models, for measuring the quality of data annotations, and for deciding when large language models can be trusted to stand in for human judgment.</p>
+<p>Before joining the University of Haifa in 2023, I was a postdoctoral researcher in the Cognitive Computation Group at the University of Pennsylvania, working with Prof. Dan Roth. I received my Ph.D. from the Faculty of Industrial Engineering and Management at the Technion, where I was advised by Prof. Roi Reichart in the NLP group; my thesis was on structured prediction algorithms and statistically sound evaluation. My postdoctoral research was supported by the Eric and Wendy Schmidt Postdoctoral Award for Women in Mathematical and Computing Sciences and by the Weizmann Institute Women's Postdoctoral Career Development Award. My lab is currently funded by the Israel Science Foundation.</p>
+<p>Read more about my <a href="research.html">research vision and topics</a>, or meet the <a href="students.html">students</a> I work with.</p>
 
-  <footer class="footer">
-    <div class="container">
-      <small class="muted">
-        © Rotem Dror 2025. Built with vanilla HTML/CSS/JS · Auto-updating publications via GitHub Actions + Google Scholar.
-      </small>
-    </div>
-  </footer>
+<section class="call" aria-labelledby="call-title">
+  <h2 id="call-title">Prospective students</h2>
+  <p>I am looking for motivated M.Sc. and Ph.D. students, as well as postdoctoral researchers, who are interested in NLP, LLM evaluation, and the statistics of empirical research. A background in computer science, statistics, data science, or a related field is welcome; curiosity and care about doing research carefully matter most.</p>
+  <p>If you would like to join, please email your CV to <a href="mailto:rdror@is.haifa.ac.il?subject=Prospective%20student%20-%20CV">rdror@is.haifa.ac.il</a>, along with a few sentences about the topics that interest you.</p>
+</section>
 
-  <script src="assets/main.js" defer></script>
+<h2>Recent publications</h2>
+<div id="recent-pubs" data-limit="5"><p class="empty">Loading publications&hellip;</p></div>
+<p class="small"><a href="publications.html">All publications</a> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?hl=en&amp;user=ZB0tZNEAAAAJ">Google Scholar profile</a></p>
+</div>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <span>&copy; <span id="year">2026</span> Rotem Dror, University of Haifa</span>
+    <span>Taking a break? <a href="https://phdcomics.com/">PhD Comics</a></span>
+  </div>
+</footer>
+<script src="assets/site.js"></script>
 </body>
 </html>
